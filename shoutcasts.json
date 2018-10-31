@@ -1,6 +1,13 @@
 {
   "jsondata": [
     {
+      "mediaId": "93",
+      "mediaTitle": "93.5 Red FM",
+      "mediaDescription": "This is an entertainment radio network broadcasting from India",
+      "mediaUrl": "http://17853.live.streamtheworld.com/CKYRFM_SC",
+      "mediaImage": "https://cdn.onlineradiobox.com/img/logo/9/4429.v2.png"
+    },
+    {
       "mediaId": "92",
       "mediaTitle": "Bolly Hits Bollywood Radio",
       "mediaDescription": "Listen to Bolly Hits Bollywood Radio",
