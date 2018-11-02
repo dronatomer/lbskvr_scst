@@ -1,6 +1,13 @@
 {
   "jsondata": [
     {
+      "mediaId": "95",
+      "mediaTitle": "Win Radio",
+      "mediaDescription": "WIN Radio is a Caribbean live stream radio station who’s ultimate goal is to have a platform for Caribbean Music, Artist and Personalities",
+      "mediaUrl": "http://stream.radio.co/s9f46a9bb1/listen",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s289462q.png"
+    },
+    {
       "mediaId": "94",
       "mediaTitle": "Retro Bollywood",
       "mediaDescription": "Listen to your evergreen old bollywood music 24x7. This radio is for those who are looking for 80's, 90's and 2000 movie songs.",
