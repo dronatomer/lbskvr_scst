@@ -1,0 +1,74 @@
+{
+  "jsondata": [
+    {
+      "mediaId": "2001",
+      "mediaTitle": "2B! Radio Sangam Devi Maa",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://ibadat.out.airtime.pro:8000//ibadat_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//maa.png"
+    },
+    {
+      "mediaId": "2002",
+      "mediaTitle": "2B! Radio Sangam Dharma Yatra",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://dharamyatra.out.airtime.pro:8000//dharamyatra_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//06//dharma.jpg"
+    },
+    {
+      "mediaId": "2003",
+      "mediaTitle": "2B! Radio Sangam Ganesha",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://radio2bindia.out.airtime.pro:8000//radio2bindia_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//ganesha.png"
+    },
+    {
+      "mediaId": "2004",
+      "mediaTitle": "2B! Radio Sangam Gurbani",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://gurbani.out.airtime.pro:8000//gurbani_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//gurbani.png"
+    },
+    {
+      "mediaId": "2005",
+      "mediaTitle": "2B! Radio Sangam Krishna",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://millenniumhits.out.airtime.pro:8000//millenniumhits_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//krishna.png"
+    },
+    {
+      "mediaId": "2006",
+      "mediaTitle": "2B! Radio Sangam Shiva",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://hot.out.airtime.pro:8000//hot_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//shiva.png"
+    },
+    {
+      "mediaId": "2007",
+      "mediaTitle": "2B! Radio Sangam Meditation",
+      "mediaDescription": "spiritual,meditation",
+      "mediaUrl": "http://djbeat.out.airtime.pro:8000//djbeat_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//meditation.png"
+    },
+    {
+      "mediaId": "2008",
+      "mediaTitle": "2B! Radio Sangam Shri Ram",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://dard.out.airtime.pro:8000//dard_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//ram.png"
+    },
+    {
+      "mediaId": "2009",
+      "mediaTitle": "2B! Radio Sangam Navgrah",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://romance.out.airtime.pro:8000//romance_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//navgrah.png"
+    },
+    {
+      "mediaId": "2010",
+      "mediaTitle": "2B! Radio Sangam Guruvar",
+      "mediaDescription": "mantra,spiritual",
+      "mediaUrl": "http://iskon2b.out.airtime.pro:8000//iskon2b_a",
+      "mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//guruvar.png"
+    }
+  ]
+}
