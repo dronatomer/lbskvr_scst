@@ -1,5 +1,12 @@
 {
   "jsondata": [
+ {
+      "mediaId": "97",
+      "mediaTitle": "Vividh Bharati",
+      "mediaDescription": "Vividh Bharati Radio is owned and managed by the Government of India through All India Radio.",
+      "mediaUrl": "http://vividhbharati-lh.akamaihd.net//i//vividhbharati_1@507811//master.m3u8",
+      "mediaImage": "https://image.winudf.com/v2/image/YXBwLm9yZy52aXZpZGhiaGFydGlfaWNvbl8xNTA5MjkxOTg3XzA5MA/icon.png?w=170&fakeurl=1&type=.png"
+    },
     {
       "mediaId": "96",
       "mediaTitle": "Radio City (India) - Hindi Classics",
