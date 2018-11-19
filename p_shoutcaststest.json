@@ -99,6 +99,27 @@
       "mediaImage": "http://db.radioline.fr/pictures/radio_3309b76465719aa145ad9ab031bc1a3e/logo200.jpg?size=200"
     },
     {
+      "mediaId": "30",
+      "mediaTitle": "FM91 Pakistan",
+      "mediaDescription": "Unlimited Hits - Pakistan",
+      "mediaUrl": "http:\/\/172.93.237.106:8147\/stream",
+      "mediaImage": "http://db.radioline.fr/pictures/radio_7868d537b13a3d8649b60f7dcafe8929/logo200.jpg?size=200"
+    },
+    {
+      "mediaId": "26",
+      "mediaTitle": "FM91 Pakistan",
+      "mediaDescription": "Unlimited Hits - Pakistan",
+      "mediaUrl": "http://172.93.237.106:8251//stream",
+      "mediaImage": "http://www.radioonlinelive.com/wp-content/uploads/2017/05/FM91-Pakistan-Lahore.jpg"
+    },
+    {
+      "mediaId": "28",
+      "mediaTitle": "FM91 Pakistan",
+      "mediaDescription": "Unlimited Hits - Pakistan",
+      "mediaUrl": "http://172.93.237.106:8209//stream",
+      "mediaImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2Lmw8nMNw7LoL8cXAOqdOhRvOH2e-ZIQEZl-lNrObMFyt00j"
+    },
+    {
       "mediaId": "15",
       "mediaTitle": "Karachi FM",
       "mediaDescription": "Unlimited Hits - Pakistan",
@@ -176,13 +197,6 @@
       "mediaImage": "http://db.radioline.fr/pictures/radio_660a88c5d52a5d81cd0d5420dcb43cdd/logo200.jpg?size=200"
     },
     {
-      "mediaId": "26",
-      "mediaTitle": "Punjabi Radio Italy",
-      "mediaDescription": "Unlimited Hits - Pakistan",
-      "mediaUrl": "http://192.99.4.210:3154/stream",
-      "mediaImage": "https://cdn.onlineradiobox.com/img/logo/6/20426.v1.png"
-    },
-    {
       "mediaId": "27",
       "mediaTitle": "Punjabi Radio",
       "mediaDescription": "Unlimited Hits - Pakistan",
@@ -190,25 +204,11 @@
       "mediaImage": "https://static-s.aa-cdn.net/img/gp/20600005445335/c1OvQ8w4uFK5JvQoiBi9wiRH-1vJcvjVHUfjcx4y9kjrpkBl2RcMZphviYWxTTRU4F0=w300"
     },
     {
-      "mediaId": "28",
-      "mediaTitle": "Mashaal Radio",
-      "mediaDescription": "Unlimited Hits - Pakistan",
-      "mediaUrl": "http://rfe-channel-20.akacast.akamaistream.net/7/990/229670/v1/ibb.akacast.akamaistream.net/rfe_channel_20.mp3",
-      "mediaImage": "http://ukrainetvradio.com/wp-content/uploads/2015/01/Watch-Ozodlik-Radiosi-Live-TV-from-Uzbekistan.jpg"
-    },
-    {
       "mediaId": "29",
       "mediaTitle": "Arman FM - FM 98.1",
       "mediaDescription": "Unlimited Hits - Pakistan",
       "mediaUrl": "http://158.69.225.238:3953/Live",
       "mediaImage": "https://cdn-radiotime-logos.tunein.com/s47830q.png"
-    },
-    {
-      "mediaId": "30",
-      "mediaTitle": "Radio Pakistan - FM 101 Peshawar",
-      "mediaDescription": "Unlimited Hits - Pakistan",
-      "mediaUrl": "http://78.46.47.245:8000/FM101",
-      "mediaImage": "http://pbs.twimg.com/profile_images/599087126857158658/837HR3JU_400x400.jpg"
     },
     {
       "mediaId": "31",
