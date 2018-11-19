@@ -37,17 +37,17 @@
     },
     {
       "mediaId": "6",
-      "mediaTitle": "Dhamaal 94 FM",
-      "mediaDescription": "Dhamaal is a radio station that broadcasts in Urdu, Punjabi and English",
-      "mediaUrl": "http://onlinerj.net:8000/dhamal94fsd",
-      "mediaImage": "https://pbs.twimg.com/profile_images/2400789299/fm94logo_400x400.jpg"
+      "mediaTitle": "Radio Awaz FM 105 Bhawalpur",
+      "mediaDescription": "Ultimate Hits",
+      "mediaUrl": "http://158.69.241.116:9324//stream",
+      "mediaImage": "https://cdn.onlineradiobox.com/img/logo/5/67715.v1.png"
     },
     {
       "mediaId": "7",
-      "mediaTitle": "Suno FM 89.4",
-      "mediaDescription": "Suno FM Radio network is a multifaceted radio",
-      "mediaUrl": "http://61.5.146.58:8000/SUNO",
-      "mediaImage": "https://itel.tv/itelmeta/images/channel_logo/suno.jpg"
+      "mediaTitle": "Power99 FM",
+      "mediaDescription": "Power99 FM Radio network is a multifaceted radio",
+      "mediaUrl": "http://23.235.206.127:8000//stream.mp3",
+      "mediaImage": "https://s3.amazonaws.com/podcastports/rffocusorg/wp-content/uploads/2010/06/Power99Logo.jpg"
     },
     {
       "mediaId": "8",
@@ -93,17 +93,17 @@
     },
     {
       "mediaId": "14",
-      "mediaTitle": "Mast FM 105",
+      "mediaTitle": "FM91 Pakistan",
       "mediaDescription": "Unlimited Music - Pakistan",
-      "mediaUrl": "http://37.59.114.102:9300/;",
-      "mediaImage": "http://www.hotfm.com.pk/img/logos/thumb_2002001388444747.jpg"
+      "mediaUrl": "http://172.93.237.106:8074//stream",
+      "mediaImage": "http://db.radioline.fr/pictures/radio_3309b76465719aa145ad9ab031bc1a3e/logo200.jpg?size=200"
     },
     {
       "mediaId": "15",
-      "mediaTitle": "Mast 103 FM",
+      "mediaTitle": "Karachi FM",
       "mediaDescription": "Unlimited Hits - Pakistan",
-      "mediaUrl": "http://64.202.98.32:6220/;",
-      "mediaImage": "http://db.radioline.fr/pictures/radio_e2806f92bbdd5b81f63b08de4de9fb9f/logo200.jpg?size=200"
+      "mediaUrl": "http://s3.voscast.com:8450//stream//1//",
+      "mediaImage": "https://www.convexinteractive.com/images/portfolio/small/Mobility/fm107.png"
     },
     {
       "mediaId": "16",
@@ -170,9 +170,9 @@
     },
     {
       "mediaId": "25",
-      "mediaTitle": "Saama FM News",
-      "mediaDescription": "Unlimited News - Pakistan",
-      "mediaUrl": "http://audio.samaafm.com:8010/stream/1/",
+      "mediaTitle": "Samaa FM 107.4",
+      "mediaDescription": "Unlimited Hits - Pakistan",
+      "mediaUrl": "http:\/\/38.96.148.106:8010\/;",
       "mediaImage": "http://db.radioline.fr/pictures/radio_660a88c5d52a5d81cd0d5420dcb43cdd/logo200.jpg?size=200"
     },
     {
