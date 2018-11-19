@@ -149,10 +149,10 @@
     },
     {
       "mediaId": "19",
-      "mediaTitle": "CALM RADIO - Bollywood",
-      "mediaDescription": "Unlimited Hits - Bollywood",
-      "mediaUrl": "http://184.173.142.117:7028/stream/1/",
-      "mediaImage": "https://images-na.ssl-images-amazon.com/images/I/41jlXa22aDL._SY355_.png"
+      "mediaTitle": "Pakistani Radio",
+      "mediaDescription": "Online web Radio Station here You can Listen verity of Bollywood Pakistani and English Songs",
+      "mediaUrl": "http://radiopaki.funnypaki.com:8886/;",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s283043q.png"
     },
     {
       "mediaId": "20",
@@ -265,7 +265,41 @@
       "mediaDescription": "Unlimited Hits - Pakistan",
       "mediaUrl": "http://ample-zeno-09.radiojar.com/0xsvm1nr7a5tv?rj-ttl=5&rj-token=AAABYL-Y-OU9z8c1ibbhO28aRw40jvBbKFu3ZDBREAdNcfaSY7zbCw",
       "mediaImage": "http://static.radio.net/images/broadcasts/59/ab/108133/1/c175.png"
-    }
+    },{
+      "mediaId": "39",
+      "mediaTitle": "SBS PopDesi",
+      "mediaDescription": "SBS PopDesi - non-stop Desi pop. The best Bollywood, Bhangra and Desi pop",
+      "mediaUrl": "http://sbs-ice.streamguys1.com/sbs-popdesi",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s190441q.png"
+    },
+    {
+      "mediaId": "40",
+      "mediaTitle": "Desi Junction Radio",
+      "mediaDescription": "Desi Junction World Wide Radio Live from Chicago Rocking Bollywood Music",
+      "mediaUrl": "http://s9.viastreaming.net:9475/;",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s112648q.png"
+    },
+    {
+      "mediaId": "41",
+      "mediaTitle": "Mehefil Radio",
+      "mediaDescription": "Mehefil Radio is a internet radio project intended to broadcast Bollywood, Indian,Hindi, Desi music",
+      "mediaUrl": "http://streaming.radionomy.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.9",
+      "mediaImage": "https://cdn-profiles.tunein.com/s106929/images/logoq.jpg?t=153857"
+    },
+    {
+      "mediaId": "42",
+      "mediaTitle": "Sound Asia FM",
+      "mediaDescription": "Sound Asia is a community based Asian Radio Station with deep roots in the Indian Sub continent",
+      "mediaUrl": "http://196.207.21.198:88/stream",
+      "mediaImage": "https://cdn-radiotime-logos.tunein.com/s123481q.png"
+    },
+    {
+      "mediaId": "43",
+      "mediaTitle": "bollybop",
+      "mediaDescription": "bollybop is Tauranga's first and only 24/7 Indian Radio Station, playing the latest Bollywood, Hindi and Punjabi Hits.",
+      "mediaUrl": "http://majestic.wavestreamer.com:7737/;",
+      "mediaImage": "https://streamitter.com/images/logos/THUIY1.png"
+    },
   ]
 }
 
