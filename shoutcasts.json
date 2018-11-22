@@ -1,6 +1,12 @@
 {
   "jsondata": [
-    
+    {
+      "mediaId": "100",
+      "mediaTitle": "Radio Zindagi",
+      "mediaDescription": "bollywood India",
+      "mediaUrl": "http://76.164.217.100:7092/;stream.mp3",
+      "mediaImage": "https://pbs.twimg.com/profile_images/643424329829498880/cAR2xrCM.png"
+     },
      {
       "mediaId": "99",
       "mediaTitle": "Radio North Eastern Service FM",
