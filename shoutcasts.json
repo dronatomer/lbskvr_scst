@@ -1,12 +1,6 @@
 {
   "jsondata": [
-    {
-      "mediaId": "100",
-      "mediaTitle": "Radio Choklate",
-      "mediaDescription": "bollywood India",
-      "mediaUrl": "http://192.64.80.222:5555/;stream.mp3",
-      "mediaImage": "http://www.odishanewsinsight.com/wp-content/uploads/2016/11/Radio-Choklate.jpg"
-     },
+    
      {
       "mediaId": "99",
       "mediaTitle": "Radio North Eastern Service FM",
