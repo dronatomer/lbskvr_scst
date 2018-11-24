@@ -1,5 +1,12 @@
 {
 	"jsondata": [{
+			"mediaId": "104", 
+			"mediaTitle": "Radio Afsana",
+			"mediaDescription": "bollywood India",
+			"mediaUrl": "http://174.36.206.197:7019/stream",
+			"mediaImage": "http://api.my-radios.com/images/thumb.php?countryCode=CA&name=25902-8924207.png&size=200"
+		},
+		{
 			"mediaId": "103", 
 			"mediaTitle": "Club FM UAE",
 			"mediaDescription": "bollywood India",
@@ -698,6 +705,13 @@
 			"mediaDescription": "Non stop hindi filmy songs",
 			"mediaUrl": "http://103.16.47.70:7444/;stream.nsv",
 			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/52901d102537945edb424b514f89b726_200x200.jpg"
+		},
+{
+			"mediaId": "105",
+			"mediaTitle": "Sabka Radio",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "http://sabka.radio.verkkotelakka.net:8005/sabka.mp3",
+			"mediaImage": "https://sabkaradio.com/wp-content/uploads/2018/02/Sabka-radio-LOGO-120x120.png"
 		}
 	]
 }
