@@ -1,0 +1,80 @@
+{
+  "jsondata": [
+    {
+      "mediaId": "5000",
+      "mediaTitle": "NDTV 24x7",
+      "mediaDescription": "news & talks",
+      "mediaUrl": "http://prclive1.listenon.in:8828/",
+      "mediaImage": "http://db.radioline.fr/pictures/radio_7132c90b1ce24c7b63bb24927963d975/logo200.jpg?size=200"
+    },
+    {
+      "mediaId": "5001",
+      "mediaTitle": "ABP News TV",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://hlslivehindi-i.akamaihd.net//hls//live//703518//abphindi//masterhls_300.m3u8",
+      "mediaImage": "https://media.glassdoor.com/sqll/526037/abp-news-squarelogo-1436169589065.png"
+    },
+    {
+      "mediaId": "5002",
+      "mediaTitle": "CNN News 18 TV",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://cnn_ibn_hls-lh.akamaihd.net//i//cnn_ibn_hls_n_1@174950//index_3_av-p.m3u8",
+      "mediaImage": "https://images.news18.com/static_news18/pix/ibnhome/news18/news18-logo-200x200_n.png"
+    },
+    {
+      "mediaId": "5003",
+      "mediaTitle": "India TV",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://indiatvnews-lh.akamaihd.net//i//ITV_1@199237//index_1_av-p.m3u8",
+      "mediaImage": "http://lh5.ggpht.com/VxKuQ0i5M21LzWFaI6sAf8Jwy1DOdvxEQku6dElu_zCLx0AjI00m-Km4HlCNUUqORMg=w300"
+    },
+    {
+      "mediaId": "5004",
+      "mediaTitle": "NDTV 24x7 News",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://ndtvstream-lh.akamaihd.net//i//ndtv_24x7_1@300633//index_736_av-b.m3u8",
+      "mediaImage": "http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/12/30/ndtv%2024x7.jpg?itok=Lek0X7rr"
+    },
+    {
+      "mediaId": "5005",
+      "mediaTitle": "BBN Tamil Live",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://s7.voscast.com:8710/Title1",
+      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/vtxxxdlespym.png"
+    },
+    {
+      "mediaId": "5006",
+      "mediaTitle": "ABP Ananda TV",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://hlsliveananda-i.akamaihd.net//hls//live//703519//abpananda//masterhls_300.m3u8",
+      "mediaImage": "https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg"
+    },
+    {
+      "mediaId": "5007",
+      "mediaTitle": "ABP Asmita TV",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://hlsliveasmita-i.akamaihd.net//hls//live//703516//abpasmita//masterhls_300.m3u8",
+      "mediaImage": "https://cdn.abplive.in/secure-vod/live/gujarati-livetv.jpg"
+    },
+    {
+      "mediaId": "5008",
+      "mediaTitle": "NDTV Prime",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//index_736_av-b.m3u8",
+      "mediaImage": "https://www.webit.org/india/2016/img/logo/ndtv.png"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
