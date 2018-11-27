@@ -1,8 +1,14 @@
 {
 	"jsondata": [{
+			"mediaId": "106", 
+			"mediaTitle": "City FM",
+			"mediaDescription": "Bollywood India, ultimate music",
+			"mediaUrl": "http://188.165.192.5:8359//stream",
+			"mediaImage": "http://1.bp.blogspot.com/-v40zIHxMVtQ/VpYf7EwuH8I/AAAAAAAAAxY/Y0IfcDx7glc/s1600/Latest%2BLogo-Black.png"
+		},{
 			"mediaId": "104", 
 			"mediaTitle": "Radio Afsana",
-			"mediaDescription": "bollywood India",
+			"mediaDescription": "Bollywood India",
 			"mediaUrl": "http://174.36.206.197:7019/stream",
 			"mediaImage": "http://api.my-radios.com/images/thumb.php?countryCode=CA&name=25902-8924207.png&size=200"
 		},
@@ -10,28 +16,28 @@
 		{
 			"mediaId": "101",
 			"mediaTitle": "Radio City Love",
-			"mediaDescription": "bollywood India",
+			"mediaDescription": "Bollywood India",
 			"mediaUrl": "http://prclive1.listenon.in:8998/",
 			"mediaImage": "https://image.winudf.com/v2/image/Y29tLkRpdmluYU1lbnRlLlJhZGlvQ2l0eTkxMUZNTG92ZUd1cnVNdXNpY0FwcEluZGlhRnJlZV9pY29uXzE1MzY2MDM0NjhfMDky/icon.png?w=170&fakeurl=1&type=.png"
 		},
 		{
 			"mediaId": "100",
 			"mediaTitle": "Radio Zindagi",
-			"mediaDescription": "bollywood India",
+			"mediaDescription": "Bollywood India",
 			"mediaUrl": "http://76.164.217.100:7092/;stream.mp3",
 			"mediaImage": "https://pbs.twimg.com/profile_images/643424329829498880/cAR2xrCM.png"
 		},
 		{
 			"mediaId": "99",
 			"mediaTitle": "Radio North Eastern Service FM",
-			"mediaDescription": "bollywood India",
+			"mediaDescription": "Bollywood India",
 			"mediaUrl": "http://51.15.208.163:8081/radio/northeastservice/icecast.audio",
 			"mediaImage": "https://lh3.googleusercontent.com/ElxiKf_Wey2ucgQgeb47-ozxa7MCie0TG7K0l_2JNCOlsxQNPHQQCamU1IIkHEdQ-g=s180"
 		},
 		{
 			"mediaId": "98",
 			"mediaTitle": "Fnf.Fm Hindi",
-			"mediaDescription": "bollywood India",
+			"mediaDescription": "Bollywood India",
 			"mediaUrl": "http://192.99.8.192:5032//;stream",
 			"mediaImage": "http://maintainurbrainz.com/uploads/3/4/3/4/34342932/editor/fnf-logo_1.png?250"
 		},
