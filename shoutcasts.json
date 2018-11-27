@@ -1,10 +1,10 @@
 {
 	"jsondata": [{
 			"mediaId": "107", 
-			"mediaTitle": "Dhol Radio.co",
-			"mediaDescription": "Desi,Punjabi,Dhol Radio,Dhol",
-			"mediaUrl": "http://www.dholradio.co",
-			"mediaImage": "https://dholradio.co/wp-content/uploads/2018/01/big1logo.png"
+			"mediaTitle": "Radio City",
+			"mediaDescription": "Bollywood India, ultimate music",
+			"mediaUrl": "http://prclive1.listenon.in:9302//;",
+			"mediaImage": "http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1510015533.png"
 		},{
 			"mediaId": "106", 
 			"mediaTitle": "City FM",
