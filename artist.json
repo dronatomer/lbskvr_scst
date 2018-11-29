@@ -55,6 +55,14 @@
       "mediaUrl": "http://prclive1.listenon.in:9308/;",
       "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gfsmkj4f9zpz.png",
       "type":"artist"
+    },
+    {
+      "mediaId": "4008",
+      "mediaTitle": "Manna Dey",
+      "mediaDescription": "Bollywood music, india",
+      "mediaUrl": "http://192.240.102.133:8512/stream",
+      "mediaImage": "https://a10.gaanacdn.com/images/playlists/22/1339822/crop_175x175_1339822.jpg",
+      "type":"artist"
     }
   ]
 }
