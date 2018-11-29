@@ -1,66 +1,66 @@
 {
 	"jsondata": [{
-			"mediaId": "112", 
+			"mediaId": "112",
 			"mediaTitle": "RADIO MASTI AUSTRALIA",
 			"mediaDescription": "A top bollywood radio station with lots of music , 1980's , 1990's and more",
 			"mediaUrl": "http://162.244.80.118:6926/;stream.mp3",
 			"mediaImage": "https://cdn-profiles.tunein.com/s303442/images/logoq.png?t=154201"
-		},{
-			"mediaId": "111", 
+		}, {
+			"mediaId": "111",
 			"mediaTitle": "M4U Radio - M4uradio.com",
 			"mediaDescription": "M4URADIO is a online and mobile source for all your favorite mix music.",
 			"mediaUrl": "http://72.44.89.82:8000/;",
 			"mediaImage": "http://www.allindiafmradios.online/apanel/media/upload/M4U%20Radio%20Hindi%20Online%20Fm%20Radio.png"
-		},{
-			"mediaId": "110", 
+		}, {
+			"mediaId": "110",
 			"mediaTitle": "JOSH FM",
 			"mediaDescription": "India's Best Digital Internet Radio ! If you have it in you then JUST BRING UP THE JOSH and PLAY ON!",
 			"mediaUrl": "http://ample-zeno-14.radiojar.com/cm1fkgbv1ceuv?rj-ttl=5&rj-token=AAABZ2Af18PTndxn0P8SzE8nzGlFel6bzH-Go3WfbjOQq7s6k8WFuw",
 			"mediaImage": "https://cdn-profiles.tunein.com/s299312/images/logoq.png"
-		},{
-			"mediaId": "109", 
+		}, {
+			"mediaId": "109",
 			"mediaTitle": "Radio Dehotties",
 			"mediaDescription": "Radio Dehotties is one of the premier entertainment focused radio production company aiming toward engaging the South Asian Community in the Bay Area.",
 			"mediaUrl": "http://s6.myradiostream.com:15054/;",
 			"mediaImage": "https://cdn-radiotime-logos.tunein.com/s298476q.png"
-		},{
-			"mediaId": "108", 
+		}, {
+			"mediaId": "108",
 			"mediaTitle": "Radio City (india) - indipop",
 			"mediaDescription": "Bollywood India, ultimate music",
 			"mediaUrl": "http://prclive1.listenon.in:9910//",
 			"mediaImage": "https://top-radio.org//wp-content//uploads//logo//DVH792QQgt.jpg"
-		},{
+		}, {
 			"mediaId": "23",
 			"mediaTitle": "Hindi Desi Bollywood Evergreen Hits",
 			"mediaDescription": "A consistently popular Hindi song station on Shoutcast, and Tune-in. Runs 24/7",
 			"mediaUrl": "http://192.240.102.133:11454/stream",
 			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/87e13ac99d76ef735f9b00db46606f4b_200x200.jpg"
-		},{
+		}, {
 			"mediaId": "94",
 			"mediaTitle": "Retro Bollywood",
 			"mediaDescription": "Listen to your evergreen old bollywood music 24x7. This radio is for those who are looking for 80's, 90's and 2000 movie songs.",
 			"mediaUrl": "http://64.71.79.181:5124/stream?1505228937567.mp3",
 			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/7/60907.v6.png"
-		},{
-			"mediaId": "107", 
+		}, {
+			"mediaId": "107",
 			"mediaTitle": "Radio City",
 			"mediaDescription": "Bollywood India, ultimate music",
 			"mediaUrl": "http://prclive1.listenon.in:9302//;",
 			"mediaImage": "http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1510015533.png"
-		},{
-			"mediaId": "106", 
+		}, {
+			"mediaId": "106",
 			"mediaTitle": "City FM",
 			"mediaDescription": "Bollywood India, ultimate music",
 			"mediaUrl": "http://188.165.192.5:8359//stream",
 			"mediaImage": "http://1.bp.blogspot.com/-v40zIHxMVtQ/VpYf7EwuH8I/AAAAAAAAAxY/Y0IfcDx7glc/s1600/Latest%2BLogo-Black.png"
-		},{
-			"mediaId": "104", 
+		}, {
+			"mediaId": "104",
 			"mediaTitle": "Radio Afsana",
 			"mediaDescription": "Bollywood India",
 			"mediaUrl": "http://174.36.206.197:7019/stream",
 			"mediaImage": "http://api.my-radios.com/images/thumb.php?countryCode=CA&name=25902-8924207.png&size=200"
 		},
-	
+
 		{
 			"mediaId": "101",
 			"mediaTitle": "Radio City Love",
@@ -733,7 +733,7 @@
 			"mediaUrl": "http://103.16.47.70:7444/;stream.nsv",
 			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/52901d102537945edb424b514f89b726_200x200.jpg"
 		},
-{
+		{
 			"mediaId": "105",
 			"mediaTitle": "Sabka Radio",
 			"mediaDescription": "Non stop hindi filmy songs",
