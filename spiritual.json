@@ -103,6 +103,13 @@
 			"mediaDescription": "mantra,spiritual",
 			"mediaUrl": "https://www.hanumanchalisa.org/mp3/Bajrang_Ban.mp3",
 			"mediaImage": "https://i.pinimg.com/originals/fa/c3/07/fac307b58edd6adec222152a85f66309.jpg"
+		},
+	        {
+			"mediaId": "2016",
+			"mediaTitle": "Radio Mantra",
+			"mediaDescription": "Bhakti Music Online Radio",
+			"mediaUrl": "http://a6.radioheart.ru:8012/live",
+			"mediaImage": "https://cdn-profiles.tunein.com/s254064/images/logoq.jpg?t=151946"
 		}
 	]
 }
