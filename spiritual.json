@@ -111,5 +111,13 @@
 			"mediaUrl": "https://www.hanumanchalisa.org/mp3/Bajrang_Ban.mp3",
 			"mediaImage": "https://i.pinimg.com/originals/fa/c3/07/fac307b58edd6adec222152a85f66309.jpg"
 		}
+		     ,
+		{
+			"mediaId": "2017",
+			"mediaTitle": "Bhakti Radio",
+			"mediaDescription": "Bhakti Radio - Sound of Spirituality.",
+			"mediaUrl": "https://tunein.com/radio/Bhakti-Radio-s148658/",
+			"mediaImage": "https://cdn-radiotime-logos.tunein.com/s148658q.png"
+		}
 	]
 }
