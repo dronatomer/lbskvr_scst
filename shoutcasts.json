@@ -5,13 +5,13 @@
 			"mediaDescription": "Bollywood hits from across the decades. Family oriented programming & events.",
 			"mediaUrl": "http://ice42.securenetsystems.net/CR90",
 			"mediaImage": "https://cdn-profiles.tunein.com/s7220/images/logoq.png"
-		},{
+		}, {
 			"mediaId": "113",
 			"mediaTitle": "V Desi",
 			"mediaDescription": "Hit Bollywood music station.",
 			"mediaUrl": "http://stream.radio.co/s42e977b6c/listen",
 			"mediaImage": "https://cdn-radiotime-logos.tunein.com/s285959q.png"
-		},{
+		}, {
 			"mediaId": "111",
 			"mediaTitle": "M4U Radio - M4uradio.com",
 			"mediaDescription": "M4URADIO is a online and mobile source for all your favorite mix music.",
@@ -41,7 +41,7 @@
 			"mediaDescription": "A consistently popular Hindi song station on Shoutcast, and Tune-in. Runs 24/7",
 			"mediaUrl": "http://192.240.102.133:11454/stream",
 			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/87e13ac99d76ef735f9b00db46606f4b_200x200.jpg"
-		},{
+		}, {
 			"mediaId": "94",
 			"mediaTitle": "Retro Bollywood",
 			"mediaDescription": "Listen to your evergreen old bollywood music 24x7. This radio is for those who are looking for 80's, 90's and 2000 movie songs.",
@@ -136,6 +136,13 @@
 			"mediaDescription": "Listen to Bolly Hits Bollywood Radio",
 			"mediaUrl": "http://176.31.107.8:8172/stream",
 			"mediaImage": "https://radiosindia.com/images/bollyhits.jpg"
+		},
+		{
+			"mediaId": "115",
+			"mediaTitle": "Radio Bula Masti",
+			"mediaDescription": "Heartbeat of the Fiji Islands. Entertaining you 24 hours in Hindi, English,& Punjabi.",
+			"mediaUrl": "http://ca3.radioboss.fm:8197/stream",
+			"mediaImage": "https://hindiradios.com/assets/img/radio-logos/radio-bula-masti.jpg"
 		},
 		{
 			"mediaId": "1",
