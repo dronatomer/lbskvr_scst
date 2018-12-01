@@ -110,13 +110,6 @@
 			"mediaDescription": "Bhakti Music Online Radio",
 			"mediaUrl": "http://a6.radioheart.ru:8012/live",
 			"mediaImage": "https://cdn-profiles.tunein.com/s254064/images/logoq.jpg?t=151946"
-		},
-		     {
-			"mediaId": "2017",
-			"mediaTitle": "Shri Hanuman Chalisa",
-			"mediaDescription": "Bhakti Music Online Radio",
-			"mediaUrl": "https://github.com/dronatomer/lbskvr_scst/blob/master/original_hanuman_chalisa_audio.mp3",
-			"mediaImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/18/86/c5/1886c5e6-ea53-1f5a-9055-ae4df3366c02/pr_source.png/246x0w.png"
 		}
 	]
 }
