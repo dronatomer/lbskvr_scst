@@ -110,6 +110,12 @@
 			"mediaDescription": "Bhakti Music Online Radio",
 			"mediaUrl": "http://a6.radioheart.ru:8012/live",
 			"mediaImage": "https://cdn-profiles.tunein.com/s254064/images/logoq.jpg?t=151946"
+		},{
+			"mediaId": "2017",
+			"mediaTitle": "Calm Radio - India",
+			"mediaDescription": "Bollywood Online Radio",
+			"mediaUrl": "http://148.72.152.10:5328/stream",
+			"mediaImage": "https://cdn-profiles.tunein.com/s167312/images/logoq.jpg"
 		}
 	]
 }
