@@ -63,6 +63,14 @@
       "mediaUrl": "http://192.240.102.133:8512/stream",
       "mediaImage": "https://a10.gaanacdn.com/images/playlists/22/1339822/crop_175x175_1339822.jpg",
       "type":"artist"
+    },
+    {
+      "mediaId": "4009",
+      "mediaTitle": "Mohd Rafi Radio",
+      "mediaDescription": "Bollywood music, india",
+      "mediaUrl": "http://radio.mohdrafi.com/rafi.mp3",
+      "mediaImage": "http://www.theshillongtimes.com/wp-content/uploads/2017/07/Md-Rafi.jpg",
+      "type":"artist"
     }
   ]
 }
