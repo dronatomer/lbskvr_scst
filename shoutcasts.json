@@ -18,6 +18,12 @@
 			"mediaDescription": "Bollywood India",
 			"mediaUrl": "http://prclive1.listenon.in:8998/",
 			"mediaImage": "https://image.winudf.com/v2/image/Y29tLkRpdmluYU1lbnRlLlJhZGlvQ2l0eTkxMUZNTG92ZUd1cnVNdXNpY0FwcEluZGlhRnJlZV9pY29uXzE1MzY2MDM0NjhfMDky/icon.png?w=170&fakeurl=1&type=.png"
+		},{
+			"mediaId": "124",
+			"mediaTitle": "My Opus Radio - The Opus Platform",
+			"mediaDescription": "My Opus Radio, ultimate hits",
+			"mediaUrl": "http://myopusradio.com:8000/myopusradio",
+			"mediaImage": "http://static.radio.net/images/broadcasts/aa/a3/14133/c175.png"
 		},
 		{
 			"mediaId": "100",
