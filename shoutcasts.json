@@ -1,10 +1,10 @@
 {
 	"jsondata": [{
-			"mediaId": "127",
-			"mediaTitle": "Radio India",
-			"mediaDescription": "Radio India, Hindi Radio",
-			"mediaUrl": "http://162.244.80.52:4614/stream/1/",
-			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/666cb0db9c99bad21c67d8858ca4cae6d6886fd7/indi_india.jpg"
+			"mediaId": "128",
+			"mediaTitle": "Kalighat Radio",
+			"mediaDescription": "Kalighat radio station streaming Indian hits music especially Hindi, Desi and Bollywood evergreen hits music.",
+			"mediaUrl": "http://198.178.123.14:8216/;stream.mp3",
+			"mediaImage": "http://www.liveonlineradio.net/wp-content/uploads/2011/12/Kalighat-Radio.jpg"
 		},{
 			"mediaId": "126",
 			"mediaTitle": "Radio City Ishq",
