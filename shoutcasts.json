@@ -1,6 +1,12 @@
 {
 	"jsondata": [{
 			"mediaId": "128",
+			"mediaTitle": "Radio Punjabi Mehak",
+			"mediaDescription": "Radio Punjabi Mehak is an online punjabi radio station that connects you with essence of your soil in the form of real music.",
+			"mediaUrl": "http://ample-zeno-20.radiojar.com/0xsvm1nr7a5tv?rj-ttl=5&rj-token=AAABZ5kXrPxC-mGqKGpg0iRm2bSw3YsabZhGmjz_Nj5Paq8jCTxsrw",
+			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/2/65472.v3.png"
+		},{
+			"mediaId": "127",
 			"mediaTitle": "Kalighat Radio",
 			"mediaDescription": "Kalighat radio station streaming Indian hits music especially Hindi, Desi and Bollywood evergreen hits music.",
 			"mediaUrl": "http://198.178.123.14:8216/;stream.mp3",
