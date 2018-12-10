@@ -1,5 +1,11 @@
 {
 	"jsondata": [{
+			"mediaId": "2018", 
+			"mediaTitle": "Bhajan Radio",
+			"mediaDescription": "Bhajan Radio is an internet radio station offering downloads of music from India temples and musicians for spiritual comtemplation and enjoyment.",
+			"mediaUrl": "http://192.99.35.215:5086/stream",
+			"mediaImage": "http://db.radioline.fr/pictures/radio_d1faccd4d196dce836cf9483188f964a/logo200.jpg?size=200"
+		},{
 			"mediaId": "2011", 
 			"mediaTitle": "Radio Sai Global Harmony Bhajan",
 			"mediaDescription": "mantra,spiritual",
