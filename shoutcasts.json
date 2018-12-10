@@ -12,6 +12,12 @@
 			"mediaUrl": "http://198.178.123.14:8216/;stream.mp3",
 			"mediaImage": "http://www.liveonlineradio.net/wp-content/uploads/2011/12/Kalighat-Radio.jpg"
 		},{
+			"mediaId": "129",
+			"mediaTitle": "Radio India",
+			"mediaDescription": "Radio India 1600 AM provide a comprehensive service to the South Asian Community.",
+			"mediaUrl": "http://162.244.80.52:4614/;stream.mp3",
+			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/indi_india.jpg"
+		},{
 			"mediaId": "126",
 			"mediaTitle": "Radio City Ishq",
 			"mediaDescription": "Radio City Ishq plays songs that goes with the naming of their radio.",
