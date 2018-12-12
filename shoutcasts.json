@@ -1,5 +1,11 @@
 {
 	"jsondata": [{
+			"mediaId": "131",
+			"mediaTitle": "Sayaji FM",
+			"mediaDescription": "Sayaji FM is own Online Radio Station for The Maharaja Sayajirao University of Baroda, Vadodara, Gujarat, started by RJ Yogesh",
+			"mediaUrl": "http://comet.shoutca.st:8437/stream",
+			"mediaImage": "https://sayajifm.com/wp-content/uploads/2017/12/Sayaji-FM-Logo-e1512819787430.png"
+		},{
 			"mediaId": "130",
 			"mediaTitle": "Radio Udaan",
 			"mediaDescription": "Radio Udaan loves their listeners choice when it comes to music.",
