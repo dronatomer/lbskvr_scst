@@ -68,6 +68,12 @@
       "mediaDescription": "News & Talks",
       "mediaUrl": "http://cnbc_awaaz_hls-lh.akamaihd.net//i//cnbc_awaaz_hls_n_1@174872//index_4_av-p.m3u8",
       "mediaImage": "https://tvwiz.in/images/channel-images/CNBC%20Awaaz.w132.png"
+    }, {
+      "mediaId": "5010",
+      "mediaTitle": "FOX News Talk",
+      "mediaDescription": "News & Talks",
+      "mediaUrl": "http://fnradio-shoutcast-32.ng.akacast.akamaistream.net/7/115/13873/v1/auth.akacast.akamaistream.net/fnradio-shoutcast-32",
+      "mediaImage": "https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg"
     }
   ]
 }
