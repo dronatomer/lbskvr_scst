@@ -71,6 +71,14 @@
       "mediaUrl": "http://radio.mohdrafi.com/rafi.mp3",
       "mediaImage": "http://www.theshillongtimes.com/wp-content/uploads/2017/07/Md-Rafi.jpg",
       "type":"artist"
+    },
+    {
+      "mediaId": "4010",
+      "mediaTitle": "AR Rahman Hindi Radio",
+      "mediaDescription": "Pop, classic, indian music.",
+      "mediaUrl": "http://212.83.138.48:8708/;",
+      "mediaImage": "https://pbs.twimg.com/profile_images/597865661264596992/NnOqToId_400x400.jpg",
+      "type":"artist"
     }
   ]
 }
