@@ -1,7 +1,20 @@
 {
  
+
  
 	"jsondata": [{
+			"mediaId": "136",
+			"mediaTitle": "Radio JSR Hindi",
+			"mediaDescription": "Non Stop Bollywood Hits.",
+			"mediaUrl": "http://198.7.59.28:8078/stream/1/",
+			"mediaImage": "https://onlineradiofm.in/assets/image/radio/180/Radio-JSR.png"
+		},{
+			"mediaId": "135",
+			"mediaTitle": "Radio Virsa",
+			"mediaDescription": "Radio Virsa is an internet radio station from India providing Hindi and Punjabi Love Songs.",
+			"mediaUrl": "http://s10.voscast.com:7666/;",
+			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/4/4284.png"
+		},{
 			"mediaId": "134",
 			"mediaTitle": "Radio City Sufi",
 			"mediaDescription": "Sufi Radio, Radio Sufi.",
@@ -241,13 +254,6 @@
 			"mediaDescription": "Radio Namkin- Ek Dum Zabardast (True Dolby HD Stereo) Premium Hand Picked, and Rare Revival Collection of Hindi Bollywood Super Hits in True Dolby HD Stereo! Premium Stereophonic Golden Classics from the 70`s, 80`s & 90`s era! Highly Addictive!",
 			"mediaUrl": "http://ample-zeno-05.radiojar.com/yg1qhsbaqv5tv?rj-ttl=5&rj-token=AAABZfNFmTj5T6aL1dvDvSTZWnM2Y7iEEFQzMisoYuFh9tmmWYfRCA",
 			"mediaImage": "https://cdn-profiles.tunein.com/s302082/images/logoq.png"
-		},
-		{
-			"mediaId": "74",
-			"mediaTitle": "Gaana Devraag",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
-			"mediaImage": "https://pbs.twimg.com/profile_images/516522229631156224/6p3-AXjh.jpeg"
 		},
 		{
 			"mediaId": "75",
