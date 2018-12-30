@@ -1,6 +1,27 @@
 { 
   "jsondata": [
     {
+      "mediaId": "88",
+      "mediaTitle": "WPTJ The Wind FM",
+      "mediaDescription": "United States",
+      "mediaUrl": "http://ic2.nwrnetwork.com/wptj-fm",
+      "mediaImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/WPTJ_90.7_FM_New_Logo.jpg/330px-WPTJ_90.7_FM_New_Logo.jpg"
+    },
+    {
+      "mediaId": "87",
+      "mediaTitle": "WIOP-LP FM",
+      "mediaDescription": "United States",
+      "mediaUrl": "http://s4.yesstreaming.net:7119/;audio.mp3?hash=1493827548797",
+      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/6g2fvqt5gjqe.png"
+    },
+ {
+      "mediaId": "86",
+      "mediaTitle": "WXCM X FM (US Only)",
+      "mediaDescription": "United States",
+      "mediaUrl": "http://208.80.55.101/sd_geo_sub_notavail?dma=0&ats=1",
+      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/hzwu7axxrbdr.jpg"
+    },
+    {
       "mediaId": "85",
       "mediaTitle": "WDFB AM & FM",
       "mediaDescription": "United States",
