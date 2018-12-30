@@ -2,10 +2,10 @@
   "jsondata": [
     {
       "mediaId": "88",
-      "mediaTitle": "WPTJ The Wind FM",
+      "mediaTitle": "WIMV FM",
       "mediaDescription": "United States",
-      "mediaUrl": "http://ic2.nwrnetwork.com/wptj-fm",
-      "mediaImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/WPTJ_90.7_FM_New_Logo.jpg/330px-WPTJ_90.7_FM_New_Logo.jpg"
+      "mediaUrl": "http://wimv.streamon.fm:8000/WIMV-24k.aac",
+      "mediaImage": "https://s3.amazonaws.com/streaming-player-assets/WIMV/custom/images/wimv-logo-20161211212714.png"
     },
     {
       "mediaId": "87",
@@ -16,10 +16,10 @@
     },
  {
       "mediaId": "86",
-      "mediaTitle": "WXCM X FM (US Only)",
+      "mediaTitle": "WWL The Big AM & FM",
       "mediaDescription": "United States",
-      "mediaUrl": "http://208.80.55.101/sd_geo_sub_notavail?dma=0&ats=1",
-      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/hzwu7axxrbdr.jpg"
+      "mediaUrl": "http://54.221.87.31/entercom-wwlamaac-64",
+      "mediaImage": "https://pbs.twimg.com/profile_images/465941982691340289/oUenikj8_400x400.jpegn"
     },
     {
       "mediaId": "85",
