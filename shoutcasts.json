@@ -2,6 +2,18 @@
 
  
 	"jsondata": [{
+			"mediaId": "139",
+			"mediaTitle": "Radio Desi 980 AM",
+			"mediaDescription": "Non Stop Hindi bollywood",
+			"mediaUrl": "http://www.streamcontrol.net:12010/;",
+			"mediaImage": "https://onlineradiofm.in/assets/image/radio/180/desi.png"
+		},{
+			"mediaId": "138",
+			"mediaTitle": "Punjabi Junction - Punjabi FM",
+			"mediaDescription": "Punjabi Junction brings to you all your favorite punjabi songs playing live in Punjabi Radio 24x7",
+			"mediaUrl": "http://www.punjabijunction.com/music/Glassy_LabhJanjua.mp3",
+			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/6/4446.v1.png"
+		},{
 			"mediaId": "137",
 			"mediaTitle": "Non Stop Hindi Radio",
 			"mediaDescription": "Non Stop Hindi Radio",
