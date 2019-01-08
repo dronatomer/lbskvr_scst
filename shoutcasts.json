@@ -1,115 +1,176 @@
 {
 
- 
+
 	"jsondata": [{
+			"mediaId": "75",
+			"mediaTitle": "Gaana Filmy Mirchi",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8",
+			"mediaImage": "https://a10.gaanacdn.com/images/radio/9/9/crop_175x175_9.jpg"
+		},
+		{
+			"mediaId": "76",
+			"mediaTitle": "Gaana Meethi Mirchi",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+			"mediaImage": "https://pbs.twimg.com/profile_images/3223960837/52dcb6b6386f3e872dde0fd3d7862d8a_400x400.jpeg"
+		},
+		{
+			"mediaId": "77",
+			"mediaTitle": "Gaana DevraagGaana Mehfil-e-Ghazal",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8",
+			"mediaImage": "https://pbs.twimg.com/profile_images/993810250531790848/l2lfTTEz_400x400.jpg"
+		},
+		{
+			"mediaId": "78",
+			"mediaTitle": "Gaana Mirchi 90s",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1_1@335229/master.m3u8",
+			"mediaImage": "https://a10.gaanacdn.com/images/radio/10/10/crop_175x175_10.jpg"
+		},
+		{
+			"mediaId": "79",
+			"mediaTitle": "Gaana Mirchi Edge",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8",
+			"mediaImage": "http://www.onlinefm.xyz/img/brands/common/mirchi_edge_fm.jpg"
+		},
+		{
+			"mediaId": "80",
+			"mediaTitle": "Gaana Mirchi Top 20",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
+			"mediaImage": "https://a10.gaanacdn.com/images/radio/18/18/crop_175x175_18.jpg"
+		}, {
+			"mediaId": "85",
+			"mediaTitle": "Himal Hindi Classic",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "http://144.76.110.138:9940/;",
+			"mediaImage": "http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1508790078.jpg"
+		},
+		{
+			"mediaId": "86",
+			"mediaTitle": "Himal Hindi Filmy",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "http://144.76.110.138:9920/;stream.mp3",
+			"mediaImage": "http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1508790078.jpg"
+		},
+		{
+			"mediaId": "87",
+			"mediaTitle": "Himal Hindi Ghazals",
+			"mediaDescription": "Non stop hindi filmy songs",
+			"mediaUrl": "http://144.76.110.138:9810/;",
+			"mediaImage": "http://1.bp.blogspot.com/-9DpcB-ebi3I/VjkBrw3oSiI/AAAAAAAAEIc/R7AKKFgaYVk/s1600/himal-radio-image.jpg"
+		}, {
 			"mediaId": "141",
 			"mediaTitle": "Radio City Freedom",
 			"mediaDescription": "Non Stop Hindi bollywood",
 			"mediaUrl": "http://prclive1.listenon.in:9978/?a=b?t=1546716072",
 			"mediaImage": "https://pbs.twimg.com/profile_images/618749928521736192/wlRPiKRH_400x400.jpg"
-		},{
+		}, {
 			"mediaId": "140",
 			"mediaTitle": "Radio City HipHop",
 			"mediaDescription": "Non Stop Hindi bollywood",
 			"mediaUrl": "http://prclive1.listenon.in:9292/;?t=1546715671",
 			"mediaImage": "http://cdn-profiles.tunein.com/s306526/images/logoq.jpg?t=152587"
-		},{
+		}, {
 			"mediaId": "139",
 			"mediaTitle": "Radio Desi 980 AM",
 			"mediaDescription": "Non Stop Hindi bollywood",
 			"mediaUrl": "http://www.streamcontrol.net:12010/;",
 			"mediaImage": "https://image.winudf.com/v2/image/Y29tLmdvb2RiYXJiZXIuZGVzaTk4MGFtX2ljb25fMF84YzhkOGU1Mw/icon.png?w=170&fakeurl=1&type=.png"
-		},{
+		}, {
 			"mediaId": "138",
 			"mediaTitle": "Punjabi Junction - Punjabi FM",
 			"mediaDescription": "Punjabi Junction brings to you all your favorite punjabi songs playing live in Punjabi Radio 24x7",
 			"mediaUrl": "http://www.punjabijunction.com/music/Glassy_LabhJanjua.mp3",
 			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/6/4446.v1.png"
-		},{
+		}, {
 			"mediaId": "137",
 			"mediaTitle": "Non Stop Hindi Radio",
 			"mediaDescription": "Non Stop Hindi Radio",
 			"mediaUrl": "http://198.178.123.14:8216/stream/1/",
 			"mediaImage": "http://www.all-radios.in/sites/default/files/radio/non-stop-hindi-india.jpg"
-		},{
+		}, {
 			"mediaId": "136",
 			"mediaTitle": "Radio JSR Hindi",
 			"mediaDescription": "Non Stop Bollywood Hits.",
 			"mediaUrl": "http://198.7.59.28:8078/stream/1/",
 			"mediaImage": "http://www.liveonlineradio.net/wp-content/uploads/2016/03/radio-jsr.jpg"
-		},{
+		}, {
 			"mediaId": "135",
 			"mediaTitle": "Radio Virsa",
 			"mediaDescription": "Radio Virsa is an internet radio station from India providing Hindi and Punjabi Love Songs.",
 			"mediaUrl": "http://s10.voscast.com:7666/;",
 			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/radio_virsa.png"
-		},{
+		}, {
 			"mediaId": "134",
 			"mediaTitle": "Radio City Sufi",
 			"mediaDescription": "Sufi Radio, Radio Sufi.",
 			"mediaUrl": "http://prclive1.listenon.in:8806/;",
 			"mediaImage": "http://static.radio.net/images/broadcasts/a5/3a/105322/1/c300.png"
-		},{
+		}, {
 			"mediaId": "133",
 			"mediaTitle": "Radio Kiss FM",
 			"mediaDescription": "Pop, dance, soundtrack, club, English Songs.",
 			"mediaUrl": "http://s3.voscast.com:8404/;stream1472803644663/1",
 			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/kissfm.png"
-		},{
+		}, {
 			"mediaId": "132",
 			"mediaTitle": "OYE INDIA",
 			"mediaDescription": "Hindi Radio, Bollywood India",
 			"mediaUrl": "http://cassini.shoutca.st:8601/;",
 			"mediaImage": "https://www.rajasthandirect.com/wp-content/uploads/2013/07/Oye-104.8-FM.jpg"
-		},{
+		}, {
 			"mediaId": "131",
 			"mediaTitle": "Sayaji FM",
 			"mediaDescription": "Sayaji FM is own Online Radio Station for The Maharaja Sayajirao University of Baroda, Vadodara, Gujarat, started by RJ Yogesh",
 			"mediaUrl": "http://comet.shoutca.st:8437/stream",
 			"mediaImage": "http://static.radio.net/images/broadcasts/9b/3c/35734/3/c175.png"
-		},{
+		}, {
 			"mediaId": "130",
 			"mediaTitle": "Radio Udaan",
 			"mediaDescription": "Radio Udaan loves their listeners choice when it comes to music.",
 			"mediaUrl": "http://50.7.77.178:8347/stream?type=.mp3/;stream.mp3",
 			"mediaImage": "http://radioudaan.com/wp-content/uploads/2017/02/udaan-web-logo-version1.png"
-		},{
+		}, {
 			"mediaId": "128",
 			"mediaTitle": "Radio Punjabi Mehak",
 			"mediaDescription": "Radio Punjabi Mehak is an online punjabi radio station that connects you with essence of your soil in the form of real music.",
 			"mediaUrl": "http://ample-zeno-20.radiojar.com/0xsvm1nr7a5tv?rj-ttl=5&rj-token=AAABZ5kXrPxC-mGqKGpg0iRm2bSw3YsabZhGmjz_Nj5Paq8jCTxsrw",
 			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/2/65472.v3.png"
-		},{
+		}, {
 			"mediaId": "127",
 			"mediaTitle": "Kalighat Radio",
 			"mediaDescription": "Kalighat radio station streaming Indian hits music especially Hindi, Desi and Bollywood evergreen hits music.",
 			"mediaUrl": "http://198.178.123.14:8216/;stream.mp3",
 			"mediaImage": "http://www.liveonlineradio.net/wp-content/uploads/2011/12/Kalighat-Radio.jpg"
-		},{
+		}, {
 			"mediaId": "129",
 			"mediaTitle": "Radio India",
 			"mediaDescription": "Radio India 1600 AM provide a comprehensive service to the South Asian Community.",
 			"mediaUrl": "http://162.244.80.52:4614/;stream.mp3",
 			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/indi_india.jpg"
-		},{
+		}, {
 			"mediaId": "126",
 			"mediaTitle": "Radio City Ishq",
 			"mediaDescription": "Radio City Ishq plays songs that goes with the naming of their radio.",
 			"mediaUrl": "http://prclive1.listenon.in:8808/",
 			"mediaImage": "https://static-media.streema.com/media/cache/73/7f/737f41f30fbaa447526a88da842fe788.jpg"
-		},{
+		}, {
 			"mediaId": "125",
 			"mediaTitle": "Bombay Beats",
 			"mediaDescription": "Bombay Beats streaming live the most popular Bollywood songs.",
 			"mediaUrl": "http://strm112.1.fm/bombaybeats_mobile_mp3?type=.mp3/;stream.mp3",
 			"mediaImage": "http://www.liveonlineradio.net/wp-content/uploads/2010/11/Bombay-Beats.jpg"
-		},{
+		}, {
 			"mediaId": "122",
 			"mediaTitle": "Radio City Fun Ka Antenna",
 			"mediaDescription": "Hindi Radio, Bollywood India",
 			"mediaUrl": "http://prclive1.listenon.in:9998/;",
 			"mediaImage": "https://i.imgur.com/FhELFbH.jpg"
-		},{
+		}, {
 			"mediaId": "118",
 			"mediaTitle": "Radio SBS 95.5FM Hindi",
 			"mediaDescription": "Hindi Radio, Bollywood India ",
@@ -122,7 +183,7 @@
 			"mediaDescription": "Bollywood India",
 			"mediaUrl": "http://prclive1.listenon.in:8998/",
 			"mediaImage": "https://image.winudf.com/v2/image/Y29tLkRpdmluYU1lbnRlLlJhZGlvQ2l0eTkxMUZNTG92ZUd1cnVNdXNpY0FwcEluZGlhRnJlZV9pY29uXzE1MzY2MDM0NjhfMDky/icon.png?w=170&fakeurl=1&type=.png"
-		},{
+		}, {
 			"mediaId": "124",
 			"mediaTitle": "My Opus Radio - The Opus Platform",
 			"mediaDescription": "My Opus Radio, ultimate hits",
@@ -283,48 +344,6 @@
 			"mediaDescription": "Radio Namkin- Ek Dum Zabardast (True Dolby HD Stereo) Premium Hand Picked, and Rare Revival Collection of Hindi Bollywood Super Hits in True Dolby HD Stereo! Premium Stereophonic Golden Classics from the 70`s, 80`s & 90`s era! Highly Addictive!",
 			"mediaUrl": "http://ample-zeno-05.radiojar.com/yg1qhsbaqv5tv?rj-ttl=5&rj-token=AAABZfNFmTj5T6aL1dvDvSTZWnM2Y7iEEFQzMisoYuFh9tmmWYfRCA",
 			"mediaImage": "https://cdn-profiles.tunein.com/s302082/images/logoq.png"
-		},
-		{
-			"mediaId": "75",
-			"mediaTitle": "Gaana Filmy Mirchi",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8",
-			"mediaImage": "https://a10.gaanacdn.com/images/radio/9/9/crop_175x175_9.jpg"
-		},
-		{
-			"mediaId": "76",
-			"mediaTitle": "Gaana Meethi Mirchi",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
-			"mediaImage": "https://pbs.twimg.com/profile_images/3223960837/52dcb6b6386f3e872dde0fd3d7862d8a_400x400.jpeg"
-		},
-		{
-			"mediaId": "77",
-			"mediaTitle": "Gaana DevraagGaana Mehfil-e-Ghazal",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8",
-			"mediaImage": "https://pbs.twimg.com/profile_images/993810250531790848/l2lfTTEz_400x400.jpg"
-		},
-		{
-			"mediaId": "78",
-			"mediaTitle": "Gaana Mirchi 90s",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1_1@335229/master.m3u8",
-			"mediaImage": "https://a10.gaanacdn.com/images/radio/10/10/crop_175x175_10.jpg"
-		},
-		{
-			"mediaId": "79",
-			"mediaTitle": "Gaana Mirchi Edge",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8",
-			"mediaImage": "http://www.onlinefm.xyz/img/brands/common/mirchi_edge_fm.jpg"
-		},
-		{
-			"mediaId": "80",
-			"mediaTitle": "Gaana Mirchi Top 20",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8",
-			"mediaImage": "https://a10.gaanacdn.com/images/radio/18/18/crop_175x175_18.jpg"
 		},
 		{
 			"mediaId": "4",
@@ -841,27 +860,6 @@
 			"mediaDescription": "Non stop hindi filmy songs",
 			"mediaUrl": "http://radio.mastfm106.com:9974/;",
 			"mediaImage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/GS-Chatroom.jpg"
-		},
-		{
-			"mediaId": "85",
-			"mediaTitle": "Himal Hindi Classic",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "http://144.76.110.138:9940/;",
-			"mediaImage": "http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1508790078.jpg"
-		},
-		{
-			"mediaId": "86",
-			"mediaTitle": "Himal Hindi Filmy",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "http://144.76.110.138:9920/;stream.mp3",
-			"mediaImage": "http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1508790078.jpg"
-		},
-		{
-			"mediaId": "87",
-			"mediaTitle": "Himal Hindi Ghazals",
-			"mediaDescription": "Non stop hindi filmy songs",
-			"mediaUrl": "http://144.76.110.138:9810/;",
-			"mediaImage": "http://1.bp.blogspot.com/-9DpcB-ebi3I/VjkBrw3oSiI/AAAAAAAAEIc/R7AKKFgaYVk/s1600/himal-radio-image.jpg"
 		},
 		{
 			"mediaId": "88",
