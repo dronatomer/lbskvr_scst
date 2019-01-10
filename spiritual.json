@@ -1,5 +1,11 @@
 {
 	"jsondata": [{
+			"mediaId": "2020", 
+			"mediaTitle": "24 Hour Kirtan Mandal",
+			"mediaDescription": "Spiritual, Meditation",
+			"mediaUrl": "http://iskon2b.out.airtime.pro:8000//iskon2b_a",
+			"mediaImage": "https://i1.sndcdn.com/avatars-000206317525-54dz42-t500x500.jpg"
+		},{
 			"mediaId": "2018", 
 			"mediaTitle": "Bhajan Radio",
 			"mediaDescription": "Bhajan Radio is an internet radio station offering downloads of music from India temples and musicians for spiritual comtemplation and enjoyment.",
