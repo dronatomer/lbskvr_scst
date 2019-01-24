@@ -1,5 +1,17 @@
 {
 	"jsondata": [{
+			"mediaId": "61",
+			"mediaTitle": "Dream FM 106",
+			"mediaDescription": "Dream FM 106, Pakistan",
+			"mediaUrl": "http://radio.dreamfm106.com:8086/;",
+			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/1/67881.v5.png"
+		},{
+			"mediaId": "60",
+			"mediaTitle": "FM Sunrise Pakistan",
+			"mediaDescription": "FM Sunrise Pakistan, Pakistan",
+			"mediaUrl": "http://5.63.151.52:7018/stream",
+			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/1/67731.v7.png"
+		},{
 			"mediaId": "59",
 			"mediaTitle": "Radio Awaz FM 105 Sahiwal",
 			"mediaDescription": "Radio Awaz FM 105 Sahiwal, Pakistan",
