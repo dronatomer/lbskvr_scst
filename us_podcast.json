@@ -1,0 +1,17 @@
+{
+	"jsondata": [{
+			"mediaId": "500",
+			"mediaTitle": "New York Times - Talk",
+			"mediaDescription": "",
+			"mediaUrl": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/newYorkTimesTalk.json",
+		"mediaImage":"https://static.radio.net/images/broadcasts/77/0c/4128/c175.png"
+		},
+		{
+			"mediaId": "501",
+			"mediaTitle": "The Joe Rogan Experience",
+			"mediaDescription": "",
+			"mediaUrl": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/theJoeRoganExperience.json",
+			"mediaImage": "https://static.radio.net/images/broadcasts/dc/60/104879/1/c175.png"
+		}
+	]
+}
