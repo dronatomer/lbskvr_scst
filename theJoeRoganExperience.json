@@ -1,6 +1,5 @@
 {
-	"jsondata": [,
-		{
+	"jsondata": [{
 			"mediaId": "500",
 			"mediaTitle": "Fight Companion - January 26, 2019",
 			"mediaDescription": "Joe is joined by Eddie Bravo, Bryan Callen & Brendan Schaub to watch the fights on January 26, 2019.",
@@ -31,7 +30,7 @@
 		{
 			"mediaId": "504",
 			"mediaTitle": "#1229 - Richard Rawlings",
-			"mediaDescription": "Richard Rawlings is the owner of Gas Monkey Garage. He can be seen on Garage Rehab & Fast N Loud " on the Discovery Channel.",
+			"mediaDescription": "Richard Rawlings is the owner of Gas Monkey Garage. He can be seen on Garage Rehab & Fast N Loud on the Discovery Channel.",
 			"mediaUrl": "http://hwcdn.libsyn.com/p/7/0/e/70eeec87be32c7b9/p1229.mp3?c_id=32257220&cs_id=32257220&destination_id=19997&expiration=1548615869&hwt=1da3a973518f43cd2b0a3a6326b20d22",
 			"mediaImage": "https://static.radio.net/images/broadcasts/dc/60/104879/1/c175.png"
 		},
@@ -115,7 +114,7 @@
 		{
 			"mediaId": "516",
 			"mediaTitle": "#1221 - Jonathan Haidt",
-			"mediaDescription": "Jonathan Haidt is a social psychologist and Professor of Ethical Leadership at New York University's Stern School of Business. He's also the author of books such as The Happiness Hypothesis and The Coddling of the American Mind ".",
+			"mediaDescription": "Jonathan Haidt is a social psychologist and Professor of Ethical Leadership at New York University's Stern School of Business. He's also the author of books such as The Happiness Hypothesis and The Coddling of the American Mind.",
 			"mediaUrl": "http://hwcdn.libsyn.com/p/c/9/7/c97d7cd4bebad75c/p1221.mp3?c_id=30967328&cs_id=30967328&destination_id=19997&expiration=1548612772&hwt=ee908641d9990ed96c0d4c3d05e8bd68",
 			"mediaImage": "https://static.radio.net/images/broadcasts/dc/60/104879/1/c175.png"
 		},
@@ -129,21 +128,21 @@
 		{
 			"mediaId": "518",
 			"mediaTitle": "#1221 - Jonathan Haidt",
-			"mediaDescription": "Jonathan Haidt is a social psychologist and Professor of Ethical Leadership at New York University's Stern School of Business. He's also the author of books such as The Happiness Hypothesis and The Coddling of the American Mind ".",
+			"mediaDescription": "Jonathan Haidt is a social psychologist and Professor of Ethical Leadership at New York University's Stern School of Business. He's also the author of books such as The Happiness Hypothesis and The Coddling of the American Mind.",
 			"mediaUrl": "http://hwcdn.libsyn.com/p/c/9/7/c97d7cd4bebad75c/p1221.mp3?c_id=30967328&cs_id=30967328&destination_id=19997&expiration=1548612772&hwt=ee908641d9990ed96c0d4c3d05e8bd68",
 			"mediaImage": "https://static.radio.net/images/broadcasts/dc/60/104879/1/c175.png"
 		},
 		{
 			"mediaId": "519",
 			"mediaTitle": "#1219 - Bill Burr",
-			"mediaDescription": "Bill Burr is a standup comedian and also hosts his own podcast called The Monday Morning Podcast. Season 3 of his show Is For Family is available now on Netflix."
-	                "mediaUrl": "http://hwcdn.libsyn.com/p/c/2/e/c2e1127c70ad7a76/p1219.mp3?c_id=29692751&cs_id=29692751&destination_id=19997&expiration=1548615543&hwt=937793143813e9dbdc59cfb5b437c8b1",
+			"mediaDescription": "Bill Burr is a standup comedian and also hosts his own podcast called The Monday Morning Podcast. Season 3 of his show Is For Family is available now on Netflix.",
+			"mediaUrl": "http://hwcdn.libsyn.com/p/c/2/e/c2e1127c70ad7a76/p1219.mp3?c_id=29692751&cs_id=29692751&destination_id=19997&expiration=1548615543&hwt=937793143813e9dbdc59cfb5b437c8b1",
 			"mediaImage": "https://static.radio.net/images/broadcasts/dc/60/104879/1/c175.png"
 		},
 		{
 			"mediaId": "520",
 			"mediaTitle": "#1218 - Gad Saad",
-			"mediaDescription": "Gad Saad is Professor of Marketing & Concordia University Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption and author of The Evolutionary Bases of Consumption and The Consuming Instinct."
+			"mediaDescription": "Gad Saad is Professor of Marketing & Concordia University Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption and author of The Evolutionary Bases of Consumption and The Consuming Instinct.",
 			"mediaUrl": "http://hwcdn.libsyn.com/p/8/0/4/8043edddcc5c115b/p1218.mp3?c_id=29601470&cs_id=29601470&destination_id=19997&expiration=1548618484&hwt=90415209386e77aa5fbd5f824f9aae6e",
 			"mediaImage": "https://static.radio.net/images/broadcasts/dc/60/104879/1/c175.png"
 		}
