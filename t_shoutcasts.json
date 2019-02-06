@@ -1,0 +1,374 @@
+ {
+ 	"jsondata": [{
+ 			"mediaId": "1",
+ 			"mediaTitle": "Geetham FM",
+ 			"mediaDescription": "Geetham FM, Tamil Radio",
+ 			"mediaUrl": "http://www.geethamradio.com:8020/hifi.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_GeethamFM.jpeg"
+ 		},
+ 		{
+ 			"mediaId": "2",
+ 			"mediaTitle": "Geetham Tamil live",
+ 			"mediaDescription": "Geetham Tamil live, Tamil Radio",
+ 			"mediaUrl": "http://www.geethamradio.com:8020/new_hifi.mp3",
+ 			"mediaImage":"http://sudhitech.com/android/tr/images/station_GeethamTamillive.png"
+ 		},
+ 		{
+ 			"mediaId": "3",
+ 			"mediaTitle": "Hungama Tamil",
+ 			"mediaDescription": "Hungama Tamil, Tamil Radio",
+ 			"mediaUrl": "http://103.16.47.70:9555/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_HungamaTamil.png"
+ 		},
+ 		{
+ 			"mediaId": "4",
+ 			"mediaTitle": "Radio City Fm",
+ 			"mediaDescription": "Radio City Fm, Tamil Radio",
+ 			"mediaUrl": "http://prclive1.listenon.in:9948/;",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_RadioCityFm.png"
+ 		},
+ 		{
+ 			"mediaId": "5",
+ 			"mediaTitle": "Radio Mirchi",
+ 			"mediaDescription": "Radio Mirchi, Tamil Radio",
+ 			"mediaUrl": "http://163.172.158.94:8052/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_mirchi.png"
+ 		},
+ 		{
+ 			"mediaId": "6",
+ 			"mediaTitle": "Hello FM",
+ 			"mediaDescription": "Hello FM, Tamil Radio",
+ 			"mediaUrl": "http://163.172.158.94:8048/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_hellofm.jpg"
+ 		},
+ 		{
+ 			"mediaId": "7",
+ 			"mediaTitle": "SPB Radio",
+ 			"mediaDescription": "SPB Radio, Tamil Radio",
+ 			"mediaUrl": "http://212.83.138.48:8344",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_spb.jpg"
+ 		},
+ 		{
+ 			"mediaId": "8",
+ 			"mediaTitle": "Big FM 92.7",
+ 			"mediaDescription": "Big FM 92.7, Tamil Radio",
+ 			"mediaUrl": "http://163.172.158.94:8062/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_bigfm.png"
+ 		},
+ 		{
+ 			"mediaId": "9",
+ 			"mediaTitle": "Ilayaraja Radio",
+ 			"mediaDescription": "Ilayaraja Radio, Tamil Radio",
+ 			"mediaUrl": "https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_Ilayaraja.png"
+ 		},
+ 		{
+ 			"mediaId": "10",
+ 			"mediaTitle": "Gaana Mirchi 90s",
+ 			"mediaDescription": "Non stop hindi filmy songs",
+ 			"mediaUrl": "http://212.83.138.48:8324",
+ 			"mediaImage": "https://a10.gaanacdn.com/images/radio/10/10/crop_175x175_10.jpg"
+ 		},
+ 		{
+ 			"mediaId": "11",
+ 			"mediaTitle": "Pudhu Padalgal",
+ 			"mediaDescription": "Pudhu Padalgal, Tamil Radio",
+ 			"mediaUrl": "http://212.83.138.48:8336/;",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_PudhuPadalgal.png"
+ 		},
+ 		{
+ 			"mediaId": "12",
+ 			"mediaTitle": "A.R.Rahman Radio",
+ 			"mediaDescription": "A.R.Rahman Radio, Tamil Radio",
+ 			"mediaUrl": "http://212.83.138.48:8328/",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_RahmanRadio.jpg"
+ 		},
+ 		{
+ 			"mediaId": "13",
+ 			"mediaTitle": "A.R.Rahman Lite Radio",
+ 			"mediaDescription": "A.R.Rahman Lite Radio, Tamil Radio",
+ 			"mediaUrl": "http://212.83.138.48:8332/",
+ 			"mediaImage": "http://sudhitech.com/android/NTSR/images/station_arr2.jpg"
+ 		},
+ 		{
+ 			"mediaId": "14",
+ 			"mediaTitle": "Harris Jayaraj Hits",
+ 			"mediaDescription": "Harris Jayaraj Hits, Tamil Radio",
+ 			"mediaUrl": "http://212.83.138.48:8352/",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_HarrisJayarajHits.jpg"
+ 		},
+ 		{
+ 			"mediaId": "15",
+ 			"mediaTitle": "Yuvan Radio",
+ 			"mediaDescription": "Yuvan Radio, Tamil Radio",
+ 			"mediaUrl": "http://212.83.138.48:8360/",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_ysr.jpg"
+ 		},
+ 		{
+ 			"mediaId": "16",
+ 			"mediaTitle": "Tamil lite radio",
+ 			"mediaDescription": "Tamil lite radio, Tamil Radio",
+ 			"mediaUrl": "http://212.83.138.48:8348/",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_Tamilliteradio.png"
+ 		},
+ 		{
+ 			"mediaId": "17",
+ 			"mediaTitle": "Tamil kuyil Radio",
+ 			"mediaDescription": "Tamil kuyil Radio, Tamil Radio",
+ 			"mediaUrl": "http://live.tamilkuyilradio.com:8095/;",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_TamilkuyilRadio.png"
+ 		},
+ 		{
+ 			"mediaId": "18",
+ 			"mediaTitle": "American Tamil Radio",
+ 			"mediaDescription": "American Tamil Radio, Tamil Radio",
+ 			"mediaUrl": "http://69.46.24.226:7188/stream/",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_AmericanTamilRadio.png"
+ 		},
+ 		{
+ 			"mediaId": "19",
+ 			"mediaTitle": "Kalasam FM",
+ 			"mediaDescription": "Kalasam FM, Tamil Radio",
+ 			"mediaUrl": "http://173.192.207.51:8084",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_KalasamFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "20",
+ 			"mediaTitle": "80s Songs",
+ 			"mediaDescription": "80s Songs, Tamil Radio",
+ 			"mediaUrl": "http://www.geethamradio.com:8020/80s_hifi.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_80sSongs.jpg"
+ 		},
+ 		{
+ 			"mediaId": "21",
+ 			"mediaTitle": "Oli FM SG",
+ 			"mediaDescription": "Oli FM SG, Tamil Radio",
+ 			"mediaUrl": "http://mediacorp.rastream.com/968fm",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_oli.jpg"
+ 		},
+ 		{
+ 			"mediaId": "22",
+ 			"mediaTitle": "Tamil One Radio",
+ 			"mediaDescription": "Tamil One Radio, Tamil Radio",
+ 			"mediaUrl": "http://www.tamilone.ch:8000/stream_64",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_TamilOneRadio.jpeg"
+ 		},
+ 		{
+ 			"mediaId": "23",
+ 			"mediaTitle": "Radio City Sufi",
+ 			"mediaDescription": "Sufi Radio, Radio Sufi.",
+ 			"mediaUrl": "http://prclive1.listenon.in:8806/;",
+ 			"mediaImage": "http://static.radio.net/images/broadcasts/a5/3a/105322/1/c300.png"
+ 		},
+ 		{
+ 			"mediaId": "24",
+ 			"mediaTitle": "Sorriyan FM",
+ 			"mediaDescription": "Sorriyan FM, Tamil Radio",
+ 			"mediaUrl": "http://cdncities.com/sooriyanfm/sooriyanfm/playlist.m3u8",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_Sooriyan2.png"
+ 		},
+ 		{
+ 			"mediaId": "25",
+ 			"mediaTitle": "Lankasri FM",
+ 			"mediaDescription": "Lankasri FM, Tamil Radio",
+ 			"mediaUrl": "http://media2.lankasri.fm/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_LankasriFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "26",
+ 			"mediaTitle": "Shakthi FM",
+ 			"mediaDescription": "Shakthi FM, Tamil Radio",
+ 			"mediaUrl": "http://76.164.217.100:7012",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_ShakthiFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "27",
+ 			"mediaTitle": "K.J.Yesudas Radio",
+ 			"mediaDescription": "K.J.Yesudas Radio, Tamil Radio",
+ 			"mediaUrl": "http://212.83.138.48:8251/",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_YesudasRadio.jpeg"
+ 		},
+ 		{
+ 			"mediaId": "28",
+ 			"mediaTitle": "Red FM",
+ 			"mediaDescription": "Red FM, Tamil Radio",
+ 			"mediaUrl": "http://192.99.35.93:6130/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_RedFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "29",
+ 			"mediaTitle": "Varnam FM",
+ 			"mediaDescription": "Varnam FM, Tamil Radio",
+ 			"mediaUrl": "http://198.178.123.8:8402",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_VarnamFM.png"
+ 		},
+ 		{
+ 			"mediaId": "30",
+ 			"mediaTitle": "Kamal Hasan Hits",
+ 			"mediaDescription": "Kamal Hasan Hits, Tamil Radio",
+ 			"mediaUrl": "http://prclive1.listenon.in:8836/",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_kamalhasanhits.jpg"
+ 		},
+ 		{
+ 			"mediaId": "31",
+ 			"mediaTitle": "Radio City Ishq",
+ 			"mediaDescription": "Radio City Ishq plays songs that goes with the naming of their radio.",
+ 			"mediaUrl": "http://prclive1.listenon.in:8808/",
+ 			"mediaImage": "https://static-media.streema.com/media/cache/73/7f/737f41f30fbaa447526a88da842fe788.jpg"
+ 		},
+ 		{
+ 			"mediaId": "32",
+ 			"mediaTitle": "Natpu FM",
+ 			"mediaDescription": "Natpu FM, Tamil Radio",
+ 			"mediaUrl": "http://usa3.fastcast4u.com:5014/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_NatpuFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "33",
+ 			"mediaTitle": "Friends Tamil Chat FM",
+ 			"mediaDescription": "Friends Tamil Chat FM, Tamil Radio",
+ 			"mediaUrl": "http://167.114.131.90:5750/stream2",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_FriendsTamilChatFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "34",
+ 			"mediaTitle": "Thenral World Radio",
+ 			"mediaDescription": "Thenral World Radio, Tamil Radio",
+ 			"mediaUrl": "http://37.187.79.93:9116/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_ThenralWorldRadio.jpg"
+ 		},
+ 		{
+ 			"mediaId": "35",
+ 			"mediaTitle": "Radio City Love",
+ 			"mediaDescription": "Bollywood India",
+ 			"mediaUrl": "http://prclive1.listenon.in:8998/",
+ 			"mediaImage": "https://image.winudf.com/v2/image/Y29tLkRpdmluYU1lbnRlLlJhZGlvQ2l0eTkxMUZNTG92ZUd1cnVNdXNpY0FwcEluZGlhRnJlZV9pY29uXzE1MzY2MDM0NjhfMDky/icon.png?w=170&fakeurl=1&type=.png"
+ 		},
+ 		{
+ 			"mediaId": "36",
+ 			"mediaTitle": "MTRHD Tamil Radio",
+ 			"mediaDescription": "MTRHD Tamil Radio, Tamil Radio",
+ 			"mediaUrl": "http://192.184.9.158:8860/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_MTRHDTamilRadio.png"
+ 		},
+ 		{
+ 			"mediaId": "37",
+ 			"mediaTitle": "SOUP FM Malaysia",
+ 			"mediaDescription": "SOUP FM Malaysia, Tamil Radio",
+ 			"mediaUrl": "http://radio.jeifm.com:8808/jeifm",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_SOUPFMMalaysia.jpg"
+ 		},
+ 		{
+ 			"mediaId": "38",
+ 			"mediaTitle": "Sivan Kovil Bakthi",
+ 			"mediaDescription": "Sivan Kovil Bakthi, Tamil Radio",
+ 			"mediaUrl": "http://sivankovil.no-ip.org:8000/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_SivanKovilBakthi.jpg"
+ 		},
+ 		{
+ 			"mediaId": "39",
+ 			"mediaTitle": "Tamil Australian FM",
+ 			"mediaDescription": "Tamil Australian FM, Tamil Radio",
+ 			"mediaUrl": "http://s7.viastreaming.net:7920/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_TamilAustralianFM.png"
+ 		},
+ 		{
+ 			"mediaId": "40",
+ 			"mediaTitle": "Norway FM",
+ 			"mediaDescription": "Norway FM, Tamil Radio",
+ 			"mediaUrl": "http://66.90.103.189:8852/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_NorwayFM.png"
+ 		},
+ 		{
+ 			"mediaId": "41",
+ 			"mediaTitle": "Desi DanceClub House Radio",
+ 			"mediaDescription": "Club House Radio, Tamil Radio",
+ 			"mediaUrl": "http://5.135.154.91:8302/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_ClubHouseRadio.jpg"
+ 		},
+ 		{
+ 			"mediaId": "42",
+ 			"mediaTitle": "IBC Tamil",
+ 			"mediaDescription": "IBC Tamil, Tamil Radio",
+ 			"mediaUrl": "http://38.96.148.226:6176",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_IBCTamil.png"
+ 		},
+ 		{
+ 			"mediaId": "43",
+ 			"mediaTitle": "Abinayam FM",
+ 			"mediaDescription": "Abinayam FM, Tamil Radio",
+ 			"mediaUrl": "http://192.99.170.8:5756",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_AbinayamFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "44",
+ 			"mediaTitle": "A9 Radio",
+ 			"mediaDescription": "A9 Radio, Tamil Radio",
+ 			"mediaUrl": "http://195.154.217.103:8175",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_A9Radio.png"
+ 		},
+ 		{
+ 			"mediaId": "45",
+ 			"mediaTitle": "Puradsi FM",
+ 			"mediaDescription": "Puradsi FM, Tamil Radio",
+ 			"mediaUrl": "http://puradsifm.net:9994",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_PuradsiFM.png"
+ 		},
+ 		{
+ 			"mediaId": "46",
+ 			"mediaTitle": "Tamil Flash FM",
+ 			"mediaDescription": "Tamil Flash FM, Tamil Radio",
+ 			"mediaUrl": "http://64.71.79.181:5070/stream/1/",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_TamilFlashFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "47",
+ 			"mediaTitle": "Iyalisai FM",
+ 			"mediaDescription": "Iyalisai FM, Tamil Radio",
+ 			"mediaUrl": "http://andromeda.shoutca.st:9350",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_IyalisaiFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "48",
+ 			"mediaTitle": "Masala FM",
+ 			"mediaDescription": "Masala FM, Tamil Radio",
+ 			"mediaUrl": "http://s9.voscast.com:8720/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_MasalaFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "49",
+ 			"mediaTitle": "Vanavil FM",
+ 			"mediaDescription": "Vanavil FM, Tamil Radio",
+ 			"mediaUrl": "http://s2.vanavilfm.com:9000",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_VanavilFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "50",
+ 			"mediaTitle": "Likexa FM",
+ 			"mediaDescription": "Likexa FM, Tamil Radio",
+ 			"mediaUrl": "http://s10.voscast.com:10210/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_LikexaFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "51",
+ 			"mediaTitle": "Tamil Sun FM",
+ 			"mediaDescription": "Tamil Sun FM, Tamil Radio",
+ 			"mediaUrl": "http://192.99.4.210:3596",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_TamilSunFM.png"
+ 		},
+ 		{
+ 			"mediaId": "52",
+ 			"mediaTitle": "Paris Tamil FM",
+ 			"mediaDescription": "Paris Tamil FM, Tamil Radio",
+ 			"mediaUrl": "http://s6.voscast.com:7108/;stream.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_ParisTamilFM.jpg"
+ 		},
+ 		{
+ 			"mediaId": "53",
+ 			"mediaTitle": "Old Songs",
+ 			"mediaDescription": "Old Songs, Tamil Radio",
+ 			"mediaUrl": "http://www.geethamradio.com:8020/old_hifi.mp3",
+ 			"mediaImage": "http://sudhitech.com/android/tr/images/station_OldSongs.png"
+ 		}
+ 	]
+ }
