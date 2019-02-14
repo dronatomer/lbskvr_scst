@@ -12,6 +12,13 @@
 			"mediaDescription": "",
 			"mediaUrl": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/defectedInTheHouse.json",
 			"mediaImage": "https://static.radio.net/images/broadcasts/2c/b6/9017/c175.png"
+		},
+		{
+			"mediaId": "502",
+			"mediaTitle": "Effortless English Podcast | Learn English with AJ Hoge",
+			"mediaDescription": "",
+			"mediaUrl": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/EffortlessEnglishPodcastLearnEnglshwithAJHoge.json",
+			"mediaImage": "https://static.radio.net/images/broadcasts/37/c2/115315/1/c175.png"
 		}
 	]
 }
