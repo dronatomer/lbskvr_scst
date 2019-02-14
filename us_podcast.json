@@ -19,6 +19,13 @@
 			"mediaDescription": "",
 			"mediaUrl": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/EffortlessEnglishPodcastLearnEnglshwithAJHoge.json",
 			"mediaImage": "https://static.radio.net/images/broadcasts/37/c2/115315/1/c175.png"
+		},
+		{
+			"mediaId": "503",
+			"mediaTitle": "The Documentary",
+			"mediaDescription": "",
+			"mediaUrl": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/TheDocumentary.json",
+			"mediaImage": "https://static.radio.net/images/broadcasts/9e/35/102778/1/c175.png"
 		}
 	]
 }
