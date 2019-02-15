@@ -3,10 +3,10 @@
 
 	"jsondata": [{
 			"mediaId": "148",
-			"mediaTitle": "PRO Plus Radio",
-			"mediaDescription": "PRO Plus Radio, india",
-			"mediaUrl": "http://5.196.56.208:8308/;stream/1",
-			"mediaImage": "https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/pro-plus-hindi-radio.jpg"
+			"mediaTitle": "Bollywood Bio",
+			"mediaDescription": "Bollywood Bio Music, india",
+			"mediaUrl": "http://94.23.252.14:8104/;stream/1",
+			"mediaImage": "https://static.radio.net/images/broadcasts/78/bc/100618/1/c175.png"
 		},{
 			"mediaId": "147",
 			"mediaTitle": "Desi Music Mix!",
