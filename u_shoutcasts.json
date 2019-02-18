@@ -1,6 +1,27 @@
 { 
   "jsondata": [
     {
+      "mediaId": "93",
+      "mediaTitle": "WLXL-LP FM",
+      "mediaDescription": "United States",
+      "mediaUrl": "http://peridot.streamguys.com:7630/live",
+      "mediaImage": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F4%2F44%2FWIXL-LP_logo.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWIXL-LP&docid=YPn1hR4pWlzQCM&tbnid=U0GEPWIXCq--xM%3A&vet=10ahUKEwiko-iH-cXgAhUXf30KHTE5D0MQMwhAKAAwAA..i&w=149&h=57&bih=577&biw=1280&q=WIXL-LP&ved=0ahUKEwiko-iH-cXgAhUXf30KHTE5D0MQMwhAKAAwAA&iact=mrc&uact=8"
+    },
+    {
+      "mediaId": "92",
+      "mediaTitle": "WCCR-LP The Crossroads FM",
+      "mediaDescription": "United States",
+      "mediaUrl": "http://i1.stretchinternet.com:8000/wccr",
+      "mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/prfvmrztcaav.jpg"
+    },
+    {
+      "mediaId": "91",
+      "mediaTitle": "WAXG American Family Radio FM",
+      "mediaDescription": "United States",
+      "mediaUrl": "https://mediaserver3.afa.net:8443/talk.mp3",
+      "mediaImage": "https://static.radio.net/images/broadcasts/b2/9e/24495/c175.png"
+    },
+    {
       "mediaId": "90",
       "mediaTitle": "WLBQ AM",
       "mediaDescription": "United States",
