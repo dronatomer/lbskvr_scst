@@ -6,7 +6,7 @@
 			"mediaTitle": "Radio Hungama Hot Now bollywood",
 			"mediaDescription": "Radio Hungama Hot Now bollywood, india",
 			"mediaUrl": "http://103.16.47.70:7222/;",
-			"mediaImage": "https://onlineradiofm.in/assets/image/radio/180/hot-now-bollywood.jpg"
+			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/hot-now-bollywood.jpg"
 		},{
 			"mediaId": "154",
 			"mediaTitle": "Hungama Bollywood Dil Se",
@@ -30,7 +30,7 @@
 			"mediaTitle": "Radio Hungama Best of Ghazals",
 			"mediaDescription": "Radio Hungama Best of Ghazals, india",
 			"mediaUrl": "http://103.16.47.70:9666/live",
-			"mediaImage": "https://onlineradiofm.in/assets/image/radio/180/Hungama-best-of-glazal.jpg"
+			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/Hungama-best-of-glazal.jpg"
 		},{
 			"mediaId": "150",
 			"mediaTitle": "Radio Dance FM 97.8",
