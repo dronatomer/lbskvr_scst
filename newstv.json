@@ -63,12 +63,6 @@
       "mediaUrl": "http://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//index_736_av-b.m3u8",
       "mediaImage": "https://www.webit.org/india/2016/img/logo/ndtv.png"
     }, {
-      "mediaId": "5009",
-      "mediaTitle": "CNBC Awaaz TV",
-      "mediaDescription": "News & Talks",
-      "mediaUrl": "http://cnbc_awaaz_hls-lh.akamaihd.net//i//cnbc_awaaz_hls_n_1@174872//index_4_av-p.m3u8",
-      "mediaImage": "https://tvwiz.in/images/channel-images/CNBC%20Awaaz.w132.png"
-    }, {
       "mediaId": "5010",
       "mediaTitle": "FOX News Talk",
       "mediaDescription": "News & Talks",
