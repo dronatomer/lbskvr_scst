@@ -8,13 +8,6 @@
       "mediaImage": "http://db.radioline.fr/pictures/radio_7132c90b1ce24c7b63bb24927963d975/logo200.jpg?size=200"
     },
     {
-      "mediaId": "5001",
-      "mediaTitle": "ABP News TV",
-      "mediaDescription": "News & Talks",
-      "mediaUrl": "http://hlslivehindi-i.akamaihd.net//hls//live//703518//abphindi//masterhls_300.m3u8",
-      "mediaImage": "https://media.glassdoor.com/sqll/526037/abp-news-squarelogo-1436169589065.png"
-    },
-    {
       "mediaId": "5002",
       "mediaTitle": "CNN News 18 TV",
       "mediaDescription": "News & Talks",
