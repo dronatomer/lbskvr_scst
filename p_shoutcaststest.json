@@ -1,6 +1,12 @@
 {
 	"jsondata": [{
 			"mediaId": "61",
+			"mediaTitle": "Mast 105",
+			"mediaDescription": "Mast 105, Pakistan",
+			"mediaUrl": "http://210.56.24.230:8002/;stream.nsv",
+			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/4/25934.v6.png"
+		},{
+			"mediaId": "61",
 			"mediaTitle": "Dream FM 106",
 			"mediaDescription": "Dream FM 106, Pakistan",
 			"mediaUrl": "http://radio.dreamfm106.com:8086/;",
