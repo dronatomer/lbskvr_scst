@@ -2668,7 +2668,7 @@
 		"cat_list": [{
 			"agent": "Adobe Primetime/2.5",
 			"ch_image": "https://github.com/jmimohsin/Master-in-Android/raw/master/mwtv/new/star_sports_hindi.png",
-			"ch_url": "http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8",
+			"ch_url": "http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct\u003dXDpAGV1pDx_2EpnEfKWKIw\u0026pxe\u003d1587039125\u0026st\u003dpNFtcqZwj504VyrOCjSPjA",
 			"ch_name": "Star Sports Hindi 1",
 			"language": "hi",
 			"category": "Sports",
