@@ -2666,6 +2666,30 @@
 	}, {
 		"cat_name": "Sports",
 		"cat_list": [{
+			"agent": "why\\",
+			"ch_image": "https://github.com/jmimohsin/Master-in-Android/raw/master/mwtv/MWTV_LIVETVCHANNEL_394/PORTRAIT/37f0d1ae-17d3-47c4-a1c0-b3badaa11f1d.jpg",
+			"ch_url": "http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8",
+			"ch_name": "Sony Ten 1 HD",
+			"language": "en",
+			"category": "Sports",
+			"hd": true
+		}, {
+			"agent": "why\\",
+			"ch_image": "https://github.com/jmimohsin/Master-in-Android/raw/master/mwtv/MWTV_LIVETVCHANNEL_437/PORTRAIT/3e4ae1e7-eaba-429c-830b-efada0e1aee7.jpg",
+			"ch_url": "http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8",
+			"ch_name": "Sony Ten 1",
+			"language": "en",
+			"category": "Sports",
+			"hd": true
+		}, {
+			"agent": "why\\",
+			"ch_image": "https://github.com/jmimohsin/Master-in-Android/raw/master/mwtv/MWTV_LIVETVCHANNEL_438/PORTRAIT/8259f29b-4746-45ca-a956-47534d195ff9.png",
+			"ch_url": "http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8",
+			"ch_name": "Sony Ten 2",
+			"language": "en",
+			"category": "Sports",
+			"hd": false
+		}, {
 			"agent": "Adobe Primetime/2.5",
 			"ch_image": "https://github.com/jmimohsin/Master-in-Android/raw/master/mwtv/new/star_sports_hindi.png",
 			"ch_url": "http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master.m3u8?jct\u003dXDpAGV1pDx_2EpnEfKWKIw\u0026pxe\u003d1587039125\u0026st\u003dpNFtcqZwj504VyrOCjSPjA",
@@ -2783,30 +2807,6 @@
 			"ch_url": "http://cshms3.airtel.tv/PLTV/88888888/224/3221226346/index.m3u8",
 			"ch_name": "DD Sports",
 			"language": "hi",
-			"category": "Sports",
-			"hd": false
-		}, {
-			"agent": "why\\",
-			"ch_image": "https://github.com/jmimohsin/Master-in-Android/raw/master/mwtv/MWTV_LIVETVCHANNEL_394/PORTRAIT/37f0d1ae-17d3-47c4-a1c0-b3badaa11f1d.jpg",
-			"ch_url": "http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8",
-			"ch_name": "Sony Ten 1 HD",
-			"language": "en",
-			"category": "Sports",
-			"hd": true
-		}, {
-			"agent": "why\\",
-			"ch_image": "https://github.com/jmimohsin/Master-in-Android/raw/master/mwtv/MWTV_LIVETVCHANNEL_437/PORTRAIT/3e4ae1e7-eaba-429c-830b-efada0e1aee7.jpg",
-			"ch_url": "http://cshms3.airtel.tv/PLTV/88888888/224/3221225931/index.m3u8",
-			"ch_name": "Sony Ten 1",
-			"language": "en",
-			"category": "Sports",
-			"hd": true
-		}, {
-			"agent": "why\\",
-			"ch_image": "https://github.com/jmimohsin/Master-in-Android/raw/master/mwtv/MWTV_LIVETVCHANNEL_438/PORTRAIT/8259f29b-4746-45ca-a956-47534d195ff9.png",
-			"ch_url": "http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/index.m3u8",
-			"ch_name": "Sony Ten 2",
-			"language": "en",
 			"category": "Sports",
 			"hd": false
 		}, {
