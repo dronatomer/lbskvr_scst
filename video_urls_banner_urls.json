@@ -1,86 +1,85 @@
 {
-  "app_id":"AIzaSyBe6pBSnnr9CKwgpMl4x0Bp4rd4bmKPETo",
-  "playlistId":"PLyuz0FzeKFM2f8I-nZscnnZ4_K_4JuH1k",
-  "jsondata": [
-    {
-      "Id": "PLyuz0FzeKFM2f8I-nZscnnZ4_K_4JuH1k",
-      "ThumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91W2H%2B2TVeL._SX679_.jpg",
-      "title": "Ramayana",
-      "catID": "",
-      "type": ""
-    },
-{
-      "Id": "PLP-HdE4WTCf6Q-7KMNv9ZMFsFnPmqemMw",
-      "ThumbnailUrl": "https://i.ytimg.com/vi/ROYfp2nJLQ0/hqdefault.jpg",
-      "title": "Shri krishna",
-      "catID": "",
-      "type": ""
-    },{
-      "Id": "PLIWoxCwbZ6843J2eCbj9pC3YahMIyReDq",
-      "ThumbnailUrl": "https://img.youtube.com/vi/IU6NVqHHb0U/sddefault.jpg",
-      "title": "Shri krishna",
-      "catID": "",
-      "type": ""
-    },
-    {
-      "Id": "PLIWoxCwbZ6873Y3gkNHrsOhFyHiH4P_-q",
-      "ThumbnailUrl": "https://s2.dmcdn.net/v/Mu4FM1TQVl_pWrF19/526x297",
-      "title": "Bajrangbali",
-      "catID": "",
-      "type": ""
-    },
-    {
-      "Id": "PLKfQh0u-9j2YaM54LNfASdQYllxsoU05a",
-      "ThumbnailUrl": "https://i.ytimg.com/vi/2y2KbUsEQuI/hqdefault.jpg",
-      "title": "Chandrakanta",
-      "catID": "",
-      "type": ""
-    },
-{
-      "Id": "PLyXHXSHxLqKxRUqOd-_FE19JBeEJloU0a",
-      "ThumbnailUrl": "https://lh6.googleusercontent.com/tb7F9_mCPGkb8uPj1ME47TQXPbxxc1GdkFYyRLnpBTNuWcpmDzGmkI3cj4tR1X1QhuXY81blZZn4PFOuRUr41HsM8KoyzicQRK9-UUhjb29nc9IwqxbG2440q3yBKdQJhQ=s412",
-      "title": "Shiv Mahapuran",
-      "catID": "",
-      "type": ""
-    },
-    {
-      "Id": "PLIWoxCwbZ687gNHpJsEuZjfZfgndaB4Qj",
-      "ThumbnailUrl": "https://secure-media1.hotstarext.com/r1/thumbs/PCTV/34/1000104634/PCTV-1000104634-hcdl.jpg",
-      "title": "Maa Laxmi",
-      "catID": "",
-      "type": ""
-    },
-    {
-      "Id": "PLNKJJImmGYISh0bc__cVPUuDy2TDB5PZt",
-      "ThumbnailUrl": "https://nettv4u.com/uploads/06-09-2019/vishnupuran.jpg",
-      "title": "Vishnu Puraan",
-      "catID": "",
-      "type": ""
-    },{
-      "Id": "PLIWoxCwbZ685_IG19Pl8RpdeobSNfVovp",
-      "ThumbnailUrl": "https://www.whatsuplife.in/delhi/blog/wp-content/uploads/2016/10/Ramlila-Maidan.jpg",
-      "title": "Ram Leela",
-      "catID": "",
-      "type": ""
-    },
-    {
-      "Id": "PLIWoxCwbZ685NlUaGhiN4wbWN_0oYmUbC",
-      "ThumbnailUrl": "https://s3.india.com/wp-content/uploads/2018/11/goverdhan-puja-1-320x180.jpg",
-      "title": "Krishna Leela",
-      "catID": "",
-      "type": ""
-    }, {
-      "Id": "PLIWoxCwbZ6864sGFbfbd6teIiZOpV0SxJ",
-      "ThumbnailUrl": "https://i.pinimg.com/736x/6f/fa/69/6ffa694dc5afef8f3d399d6372f0c367.jpg",
-      "title": "Bhakti Movies",
-      "catID": "",
-      "type": ""
-    }, {
-      "Id": "PLIWoxCwbZ684qfGOjmdKGPza50Ipf6Lq3",
-      "ThumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVeQ0BYxuKMw9c34k3t6pVKEIkD6bqcXWanS6oUJlAgGsejVgv",
-      "title": "Hindi Katha",
-      "catID": "",
-      "type": ""
-    }
-  ]
+	"app_id": "AIzaSyBe6pBSnnr9CKwgpMl4x0Bp4rd4bmKPETo",
+	"playlistId": "PLyuz0FzeKFM2f8I-nZscnnZ4_K_4JuH1k",
+	"jsondata": [{
+			"Id": "PLyuz0FzeKFM2f8I-nZscnnZ4_K_4JuH1k",
+			"ThumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91W2H%2B2TVeL._SX679_.jpg",
+			"title": "Ramayana",
+			"catID": "",
+			"type": ""
+		},
+		{
+			"Id": "PLP-HdE4WTCf6Q-7KMNv9ZMFsFnPmqemMw",
+			"ThumbnailUrl": "https://i.ytimg.com/vi/ROYfp2nJLQ0/hqdefault.jpg",
+			"title": "Shri krishna",
+			"catID": "",
+			"type": ""
+		}, {
+			"Id": "PLIWoxCwbZ6843J2eCbj9pC3YahMIyReDq",
+			"ThumbnailUrl": "https://img.youtube.com/vi/IU6NVqHHb0U/sddefault.jpg",
+			"title": "Shri krishna",
+			"catID": "",
+			"type": ""
+		}, {
+			"Id": "PLKfQh0u-9j2YaM54LNfASdQYllxsoU05a",
+			"ThumbnailUrl": "https://s2.dmcdn.net/v/Mu4FM1TQVl_pWrF19/526x297",
+			"title": "Chandrakanta",
+			"catID": "",
+			"type": ""
+		},
+		{
+			"Id": "PLIWoxCwbZ6873Y3gkNHrsOhFyHiH4P_-q",
+			"ThumbnailUrl": "https://i.ytimg.com/vi/2y2KbUsEQuI/hqdefault.jpg",
+			"title": "Bajrangbali",
+			"catID": "",
+			"type": ""
+		},
+
+		{
+			"Id": "PLyXHXSHxLqKxRUqOd-_FE19JBeEJloU0a",
+			"ThumbnailUrl": "https://lh6.googleusercontent.com/tb7F9_mCPGkb8uPj1ME47TQXPbxxc1GdkFYyRLnpBTNuWcpmDzGmkI3cj4tR1X1QhuXY81blZZn4PFOuRUr41HsM8KoyzicQRK9-UUhjb29nc9IwqxbG2440q3yBKdQJhQ=s412",
+			"title": "Shiv Mahapuran",
+			"catID": "",
+			"type": ""
+		},
+		{
+			"Id": "PLIWoxCwbZ687gNHpJsEuZjfZfgndaB4Qj",
+			"ThumbnailUrl": "https://secure-media1.hotstarext.com/r1/thumbs/PCTV/34/1000104634/PCTV-1000104634-hcdl.jpg",
+			"title": "Maa Laxmi",
+			"catID": "",
+			"type": ""
+		},
+		{
+			"Id": "PLNKJJImmGYISh0bc__cVPUuDy2TDB5PZt",
+			"ThumbnailUrl": "https://nettv4u.com/uploads/06-09-2019/vishnupuran.jpg",
+			"title": "Vishnu Puraan",
+			"catID": "",
+			"type": ""
+		}, {
+			"Id": "PLIWoxCwbZ685_IG19Pl8RpdeobSNfVovp",
+			"ThumbnailUrl": "https://www.whatsuplife.in/delhi/blog/wp-content/uploads/2016/10/Ramlila-Maidan.jpg",
+			"title": "Ram Leela",
+			"catID": "",
+			"type": ""
+		},
+		{
+			"Id": "PLIWoxCwbZ685NlUaGhiN4wbWN_0oYmUbC",
+			"ThumbnailUrl": "https://s3.india.com/wp-content/uploads/2018/11/goverdhan-puja-1-320x180.jpg",
+			"title": "Krishna Leela",
+			"catID": "",
+			"type": ""
+		}, {
+			"Id": "PLIWoxCwbZ6864sGFbfbd6teIiZOpV0SxJ",
+			"ThumbnailUrl": "https://i.pinimg.com/736x/6f/fa/69/6ffa694dc5afef8f3d399d6372f0c367.jpg",
+			"title": "Bhakti Movies",
+			"catID": "",
+			"type": ""
+		}, {
+			"Id": "PLIWoxCwbZ684qfGOjmdKGPza50Ipf6Lq3",
+			"ThumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVeQ0BYxuKMw9c34k3t6pVKEIkD6bqcXWanS6oUJlAgGsejVgv",
+			"title": "Hindi Katha",
+			"catID": "",
+			"type": ""
+		}
+	]
 }
