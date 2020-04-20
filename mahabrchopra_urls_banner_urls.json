@@ -1,36 +1,35 @@
-
 {
-  "app_id":"AIzaSyAIEHr4cvaE2vRNTbX1IwleYSfeqHCgHAQ",
-  "playlistId":"PLIKAQnGHxVK1yRdI8XXIuqMKcLEImuKl3",
-  "jsondata": [
-      {
-      "Id": "PLIKAQnGHxVK1yRdI8XXIuqMKcLEImuKl3",
-      "ThumbnailUrl": "https://youtubehindivideos.com/wp-content/uploads/2018/04/Ramanand-Sagar-Shri-Krishna-All-Episodes.jpg",
-      "title": "Shri krishna",
-      "catID": "",
-      "type": ""
-    },  
-    {
-      "Id": "PLWlgFjgLhgQNCvDinleite1PSeAqFTQp1",
-      "ThumbnailUrl": "https://www.india.com/wp-content/uploads/2017/05/maha.jpg",
-      "title": "Mahabharat",
-      "catID": "",
-      "type": ""
-    },
+	"app_id": "AIzaSyAIEHr4cvaE2vRNTbX1IwleYSfeqHCgHAQ",
+	"playlistId": "PLIKAQnGHxVK1yRdI8XXIuqMKcLEImuKl3",
+	"jsondata": [
 
-   {
-      "Id": "PLhsDv12fC-ZZtOdKIvcBVwiZgb4YAI0x8",
-      "ThumbnailUrl": "https://i.pinimg.com/474x/bf/7a/f2/bf7af2c1e3276bed04881610de32933f--maa-photo-wallpaper.jpg",
-      "title": "Jai durga maa",
-      "catID": "",
-      "type": ""
-    },{
-      "Id": "PLxAeSrqQeWdVRBmLQEbmrzPnGrgADaNFw",
-      "ThumbnailUrl": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://i.ytimg.com/vi/99_0eSpvKdg/mqdefault.jpg",
-      "title": "Jai hanuman",
-      "catID": "",
-      "type": ""
-    }
+		{
+			"Id": "PLWlgFjgLhgQNCvDinleite1PSeAqFTQp1",
+			"ThumbnailUrl": "https://www.india.com/wp-content/uploads/2017/05/maha.jpg",
+			"title": "Mahabharat",
+			"catID": "",
+			"type": ""
+		},
+		{
+			"Id": "PL-NRrjK61OD38i9X7KO5qrFKrWvpHubM5",
+			"ThumbnailUrl": "https://youtubehindivideos.com/wp-content/uploads/2018/04/Ramanand-Sagar-Shri-Krishna-All-Episodes.jpg",
+			"title": "Shri krishna",
+			"catID": "",
+			"type": ""
+		},
+		{
+			"Id": "PLhsDv12fC-ZZtOdKIvcBVwiZgb4YAI0x8",
+			"ThumbnailUrl": "https://i.pinimg.com/474x/bf/7a/f2/bf7af2c1e3276bed04881610de32933f--maa-photo-wallpaper.jpg",
+			"title": "Jai durga maa",
+			"catID": "",
+			"type": ""
+		}, {
+			"Id": "PLxAeSrqQeWdVRBmLQEbmrzPnGrgADaNFw",
+			"ThumbnailUrl": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://i.ytimg.com/vi/99_0eSpvKdg/mqdefault.jpg",
+			"title": "Jai hanuman",
+			"catID": "",
+			"type": ""
+		}
 
-  ]
+	]
 }
