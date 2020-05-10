@@ -1,7 +1,9 @@
 {
+  "app_id": "AIzaSyB_1LjVCoYRB0pEupRb0Z93rOJYoR7MI4U",
+	"playlistId": "PLo_jK3SBUUWEVX9v_v8FcukFJgm_fYEEv",
   "jsondata": [
                 {
-      "Id": "PLDxEe6Nokk_FWRnvpdDWC1NWXx5EWKg5y",
+      "Id": "PLo_jK3SBUUWEVX9v_v8FcukFJgm_fYEEv",
       "ThumbnailUrl": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/vikram_betal_banner.png",
       "title": "Vikram Betal",
       "catID": "",
@@ -28,5 +30,144 @@
       "catID": "",
       "type": ""
     }
-  ]
+  ],
+	"bhakti_json": [{
+			"mediaId": "2008",
+			"mediaTitle": "2B! Radio Sangam Shri Ram",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://dard.out.airtime.pro:8000//dard_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//ram.png"
+		}, {
+			"mediaId": "2003",
+			"mediaTitle": "2B! Radio Sangam Ganesha",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://radio2bindia.out.airtime.pro:8000//radio2bindia_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//ganesha.png"
+		},
+		{
+			"mediaId": "2006",
+			"mediaTitle": "2B! Radio Sangam Shiva",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://hot.out.airtime.pro:8000//hot_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//shiva.png"
+		}, {
+			"mediaId": "2001",
+			"mediaTitle": "2B! Radio Sangam Devi Maa",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://ibadat.out.airtime.pro:8000//ibadat_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//maa.png"
+		}, {
+			"mediaId": "2005",
+			"mediaTitle": "2B! Radio Sangam Krishna",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://millenniumhits.out.airtime.pro:8000//millenniumhits_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//krishna.png"
+		}, {
+			"mediaId": "2021",
+			"mediaTitle": "Bhakti Sagar",
+			"mediaDescription": "Spiritual, Meditation",
+			"mediaUrl": "http://103.16.47.70:7777/;stream.nsv",
+			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/719a90099296abf724dd5522f1a42974_200x200.jpg"
+		}, {
+			"mediaId": "2015",
+			"mediaTitle": "BAJRANG BAN",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "https://www.hanumanchalisa.org/mp3/Bajrang_Ban.mp3",
+			"mediaImage": "https://i.pinimg.com/originals/fa/c3/07/fac307b58edd6adec222152a85f66309.jpg"
+		}, {
+			"mediaId": "2020",
+			"mediaTitle": "24 Hour Kirtan Mandal",
+			"mediaDescription": "Spiritual, Meditation",
+			"mediaUrl": "http://iskon2b.out.airtime.pro:8000//iskon2b_a",
+			"mediaImage": "https://i1.sndcdn.com/avatars-000206317525-54dz42-t500x500.jpg"
+		}, {
+			"mediaId": "2018",
+			"mediaTitle": "Bhajan Radio",
+			"mediaDescription": "Bhajan Radio is an internet radio station offering downloads of music from India temples and musicians for spiritual comtemplation and enjoyment.",
+			"mediaUrl": "http://192.99.35.215:5086/stream",
+			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/4/3904.v1.png"
+		}, {
+			"mediaId": "2011",
+			"mediaTitle": "Radio Sai Global Harmony Bhajan",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://stream.radiosai.net:8000/",
+			"mediaImage": "http://db.radioline.fr/pictures/radio_d1faccd4d196dce836cf9483188f964a/logo200.jpg?size=200"
+		},
+		{
+			"mediaId": "2002",
+			"mediaTitle": "2B! Radio Sangam Dharma Yatra",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://dharamyatra.out.airtime.pro:8000//dharamyatra_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//06//dharma.jpg"
+		},
+		{
+			"mediaId": "2004",
+			"mediaTitle": "2B! Radio Sangam Gurbani",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://gurbani.out.airtime.pro:8000//gurbani_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//gurbani.png"
+		},
+		{
+			"mediaId": "2007",
+			"mediaTitle": "2B! Radio Sangam Meditation",
+			"mediaDescription": "spiritual,meditation",
+			"mediaUrl": "http://djbeat.out.airtime.pro:8000//djbeat_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//meditation.png"
+		},
+		{
+			"mediaId": "2019",
+			"mediaTitle": "FM City Wellness",
+			"mediaDescription": "Meditation Music, Feel Free",
+			"mediaUrl": "http://prclive1.listenon.in:8810//",
+			"mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uamfw9qjt8gl.png"
+		},
+		{
+			"mediaId": "2009",
+			"mediaTitle": "2B! Radio Sangam Navgrah",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://romance.out.airtime.pro:8000//romance_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//navgrah.png"
+		},
+		{
+			"mediaId": "2010",
+			"mediaTitle": "2B! Radio Sangam Guruvar",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://iskon2b.out.airtime.pro:8000//iskon2b_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//guruvar.png"
+		},
+		{
+			"mediaId": "2012",
+			"mediaTitle": "Sri Harmandir Sahib",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://sgpc.net:8070/live32",
+			"mediaImage": "https://i.pinimg.com/236x/a0/e3/02/a0e3020a094639f6d35780914c59423d--amritsar-quotation.jpg"
+		},
+		{
+			"mediaId": "2013",
+			"mediaTitle": "Radio city Bakthi",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "https://prclive4.listenon.in//Bhakti",
+			"mediaImage": "http://static.radio.net/images/broadcasts/02/93/105310/1/c300.png"
+		},
+		{
+			"mediaId": "2014",
+			"mediaTitle": "Radio Divya Jyoti",
+			"mediaDescription": "Divya Jyoti",
+			"mediaUrl": "http://s8.voscast.com:9280/stream/1/",
+			"mediaImage": "https://cdn-radiotime-logos.tunein.com/s224334d.png"
+		},
+		{
+			"mediaId": "2016",
+			"mediaTitle": "Radio Mantra",
+			"mediaDescription": "Bhakti Music Online Radio",
+			"mediaUrl": "http://a6.radioheart.ru:8012/live",
+			"mediaImage": "https://cdn-profiles.tunein.com/s254064/images/logoq.jpg?t=151946"
+		}, {
+			"mediaId": "2017",
+			"mediaTitle": "Calm Radio - India",
+			"mediaDescription": "Bollywood Online Radio",
+			"mediaUrl": "http://148.72.152.10:5328/stream",
+			"mediaImage": "https://cdn-profiles.tunein.com/s167312/images/logoq.jpg"
+		}
+	]
 }
