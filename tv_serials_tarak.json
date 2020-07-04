@@ -1,48 +1,96 @@
 {
-  "app_id":"AIzaSyAR3lyb-ucc8JYrSHw0rfCaXCYHveGy6U8",
-  "playlistId":"PLc2o3ItA0JO3mfmI1hvAE_ooguCd_PiK1",
-  "jsondata": [
+	"app_id": "AIzaSyBWwlsyIT-xDKdzcxGuCZQ4oGYgIEOuhKg",
+	"playlistId": "PL6Rtnh6YJK7Zfu1x9Bd1UqLwUxhZ1oBJh",
+	"jsondata": [{
+			"Id": "PL6Rtnh6YJK7Zfu1x9Bd1UqLwUxhZ1oBJh",
+			"ThumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGEwNGIzMjMtNTE1OC00ZTE0LTkzNzQtZGY1ZDRlODhkNDM0XkEyXkFqcGdeQXVyNzQ3NTY5MjE@._V1_.jpg",
+			"title": "Tarak Mehta Ka Oolta Chashma",
+			"catID": "",
+			"type": ""
+		},
+   {
+      "Id": "PL6Rtnh6YJK7b_uvjq89Qkc9v53P4_RFlc",
+      "ThumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkanNHVVSYdsyXDq6qoFAsNt7WowUjxG1a8FpCXepZdm0Kbv6M",
+      "title": "FIR Serial",
+      "catID": "",
+      "type": ""
+    },
+		{
+			"Id": "PL6Rtnh6YJK7Z-EqrUMCxZQ3hW6VkB6VHd",
+			"ThumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Aladdin_-_Naam_Toh_Suna_Hoga.jpg",
+			"title": "Alladin",
+			"catID": "",
+			"type": ""
+		},
     {
-      "Id": "PLc2o3ItA0JO3mfmI1hvAE_ooguCd_PiK1",
-      "ThumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91W2H%2B2TVeL._SX679_.jpg",
-      "title": "Ramayana",
-      "catID": "",
-      "type": ""
-    },
-{
-      "Id": "PLP-HdE4WTCf6Q-7KMNv9ZMFsFnPmqemMw",
-      "ThumbnailUrl": "https://i.ytimg.com/vi/ROYfp2nJLQ0/hqdefault.jpg",
-      "title": "Shri krishna",
-      "catID": "",
-      "type": ""
-    },
-{
-      "Id": "PLyXHXSHxLqKxRUqOd-_FE19JBeEJloU0a",
-      "ThumbnailUrl": "http://media.webdunia.com/_media/hi/img/article/2016-07/24/full/1469356819-0123.jpg",
-      "title": "Shiv Mahapuran",
-      "catID": "",
-      "type": ""
-    },
-{
-      "Id": "PLIWoxCwbZ687gNHpJsEuZjfZfgndaB4Qj",
-      "ThumbnailUrl": "https://secure-media1.hotstarext.com/r1/thumbs/PCTV/34/1000104634/PCTV-1000104634-hcdl.jpg",
-      "title": "Maa Laxmi",
-      "catID": "",
-      "type": ""
-    },
-    {
-      "Id": "PLIWoxCwbZ685_IG19Pl8RpdeobSNfVovp",
-      "ThumbnailUrl": "https://www.whatsuplife.in/delhi/blog/wp-content/uploads/2016/10/Ramlila-Maidan.jpg",
-      "title": "Ram Leela",
+      "Id": "PLKfQh0u-9j2YaM54LNfASdQYllxsoU05a",
+      "ThumbnailUrl": "https://s2.dmcdn.net/v/Mu4FM1TQVl_pWrF19/526x297",
+      "title": "Chandrakanta",
       "catID": "",
       "type": ""
     },
     {
-      "Id": "PLIWoxCwbZ685NlUaGhiN4wbWN_0oYmUbC",
-      "ThumbnailUrl": "https://s3.india.com/wp-content/uploads/2018/11/goverdhan-puja-1-320x180.jpg",
-      "title": "Krishna Leela",
+      "Id": "PLE59E7343039CE615",
+      "ThumbnailUrl": "https://spiderimg.amarujala.com/assets/images/2017/06/17/750x506/junior-g_1497678363.jpeg",
+      "title": "Junior G",
       "catID": "",
       "type": ""
     }
-  ]
+	],
+	"bhakti_json": [{
+			"mediaId": "155",
+			"mediaTitle": "Radio Hungama Hot Now bollywood",
+			"mediaDescription": "Radio Hungama Hot Now bollywood, india",
+			"mediaUrl": "http://103.16.47.70:7222/;",
+			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/hot-now-bollywood.jpg"
+		},{
+			"mediaId": "154",
+			"mediaTitle": "Hungama Bollywood Dil Se",
+			"mediaDescription": "Hungama Bollywood Dil Se, india",
+			"mediaUrl": "http://103.16.47.70:7333/;",
+			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/347160f7c385ec130ac12c4f6c107216_200x200.jpg"
+		},{
+			"mediaId": "153",
+			"mediaTitle": "Hungama - Dance Masti International",
+			"mediaDescription": "Hungama - Dance Masti International, india",
+			"mediaUrl": "http://103.16.47.70:9222/live",
+			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/9db33d20bf6eb622b88ac5240031a5a0_200x200.jpg"
+		},{
+			"mediaId": "152",
+			"mediaTitle": "Radio Hungama Punjabi Hits",
+			"mediaDescription": "Radio Hungama Punjabi Hits, india",
+			"mediaUrl": "http://103.16.47.70:9888/;",
+			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/772a6391c26636c4072a117bdd1500f7_200x200.jpg"
+		},{
+			"mediaId": "151",
+			"mediaTitle": "Radio Hungama Best of Ghazals",
+			"mediaDescription": "Radio Hungama Best of Ghazals, india",
+			"mediaUrl": "http://103.16.47.70:9666/live",
+			"mediaImage": "https://raw.githubusercontent.com/dronatomer/lbskvr_scst/master/Hungama-best-of-glazal.jpg"
+		},{
+			"mediaId": "150",
+			"mediaTitle": "Radio Dance FM 97.8",
+			"mediaDescription": "Radio Dance FM 97.8, india",
+			"mediaUrl": "http://18003.live.streamtheworld.com/DANCE_FMAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=6bd08ebf-baf6-43e2-c649-3c8c33e7f469",
+			"mediaImage": "https://lh3.googleusercontent.com/QsxMV1JR7gUdaEFQK-4_tA1sfpdPOi3N6nVYPmpVgsunPpUa7FHxROLtnVV-PfG8d4w"
+		},{
+			"mediaId": "149",
+			"mediaTitle": "RADIO TAJ",
+			"mediaDescription": "RADIO TAJ, india",
+			"mediaUrl": "http://198.178.123.2:9484/;stream.mp3",
+			"mediaImage": "http://www.cellsplashtech.com/assets/images/chanel_image/httplive.radiotaj.com9484.png"
+		},{
+			"mediaId": "148",
+			"mediaTitle": "Bollywood Bio",
+			"mediaDescription": "Bollywood Bio Music, india",
+			"mediaUrl": "http://94.23.252.14:8104/;stream/1",
+			"mediaImage": "https://static.radio.net/images/broadcasts/78/bc/100618/1/c175.png"
+		},{
+			"mediaId": "147",
+			"mediaTitle": "Desi Music Mix!",
+			"mediaDescription": "Desi Music Mix!, india",
+			"mediaUrl": "http://66.23.234.242:8012/;stream/1",
+			"mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/Typgmp8Z8D.png"
+		}
+	]
 }
