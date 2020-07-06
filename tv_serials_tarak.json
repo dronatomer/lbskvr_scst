@@ -17,13 +17,13 @@
     },
 		{
 			"Id": "PLy_BU-vwATIx6ON9pcIxOJwExClO1Ky0t",
-			"ThumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Aladdin_-_Naam_Toh_Suna_Hoga.jpg",
-			"title": "Alladin",
+			"ThumbnailUrl": "https://i0.wp.com/www.dekhnews.com/entertainment/wp-content/uploads/2019/04/hqdefault-20.jpg?resize=480%2C360&ssl=1",
+			"title": "Mahima Shani Dev Ki",
 			"catID": "",
 			"type": ""
 		},{
 			"Id": "PLYxF_A4KfsmnrLZQYcOmi9XfJVNOd4L8b",
-			"ThumbnailUrl": "https://bestoftheyear.in/wp-content/uploads/2018/02/naagin.jpg",
+			"ThumbnailUrl": "https://i.pinimg.com/originals/52/9d/e7/529de7b80f469bea83a9d730b2810e7e.jpg",
 			"title": "Nagin",
 			"catID": "",
 			"type": ""
@@ -44,6 +44,13 @@
     },
     {
       "Id": "PLE59E7343039CE615",
+      "ThumbnailUrl": "https://spiderimg.amarujala.com/assets/images/2017/06/17/750x506/junior-g_1497678363.jpeg",
+      "title": "Junior G",
+      "catID": "",
+      "type": ""
+    },
+    {
+      "Id": "",
       "ThumbnailUrl": "https://spiderimg.amarujala.com/assets/images/2017/06/17/750x506/junior-g_1497678363.jpeg",
       "title": "Junior G",
       "catID": "",
