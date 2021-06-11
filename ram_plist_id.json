@@ -1,48 +1,146 @@
 {
-  "app_id":"AIzaSyDO5pBseF17ToENIxNZ_EhLQZi3_xUQQQY",
-  "playlistId":"PLc2o3ItA0JO3mfmI1hvAE_ooguCd_PiK1",
-  "jsondata": [
-    {
-      "Id": "PLc2o3ItA0JO3mfmI1hvAE_ooguCd_PiK1",
-      "ThumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91W2H%2B2TVeL._SX679_.jpg",
-      "title": "Ramayana",
-      "catID": "",
-      "type": ""
-    },
-{
-      "Id": "PLP-HdE4WTCf6Q-7KMNv9ZMFsFnPmqemMw",
-      "ThumbnailUrl": "https://i.ytimg.com/vi/ROYfp2nJLQ0/hqdefault.jpg",
-      "title": "Shri krishna",
-      "catID": "",
-      "type": ""
-    },
-{
-      "Id": "PLyXHXSHxLqKxRUqOd-_FE19JBeEJloU0a",
-      "ThumbnailUrl": "http://media.webdunia.com/_media/hi/img/article/2016-07/24/full/1469356819-0123.jpg",
-      "title": "Shiv Mahapuran",
-      "catID": "",
-      "type": ""
-    },
-{
-      "Id": "PLIWoxCwbZ687gNHpJsEuZjfZfgndaB4Qj",
-      "ThumbnailUrl": "https://secure-media1.hotstarext.com/r1/thumbs/PCTV/34/1000104634/PCTV-1000104634-hcdl.jpg",
-      "title": "Maa Laxmi",
-      "catID": "",
-      "type": ""
-    },
-    {
-      "Id": "PLIWoxCwbZ685_IG19Pl8RpdeobSNfVovp",
-      "ThumbnailUrl": "https://www.whatsuplife.in/delhi/blog/wp-content/uploads/2016/10/Ramlila-Maidan.jpg",
-      "title": "Ram Leela",
-      "catID": "",
-      "type": ""
-    },
-    {
-      "Id": "PLIWoxCwbZ685NlUaGhiN4wbWN_0oYmUbC",
-      "ThumbnailUrl": "https://s3.india.com/wp-content/uploads/2018/11/goverdhan-puja-1-320x180.jpg",
-      "title": "Krishna Leela",
-      "catID": "",
-      "type": ""
-    }
-  ]
+	"plist_id": "x6zpdo",
+	"reverse": true,
+	"jsondata": [{
+		"ThumbnailUrl": "https://images.assettype.com/swarajya%2F2020-03%2Fa6adb885-a654-4ed3-89d1-30f3a0363893%2F81qYs_IdHFL__SL1184___1_.jpg?w=640&q=75&auto=format%2Ccompress"
+	}],
+	"bhakti_json": [{
+			"mediaId": "2008",
+			"mediaTitle": "2B! Radio Sangam Shri Ram",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://dard.out.airtime.pro:8000//dard_a",
+			"mediaImage": "https://aimgk.timesnownews.com/story/Jai_Shri_Ram_1.jpg?tr=w-400,h-300,fo-auto"
+		}, {
+			"mediaId": "2003",
+			"mediaTitle": "2B! Radio Sangam Ganesha",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://radio2bindia.out.airtime.pro:8000//radio2bindia_a",
+			"mediaImage": "https://www.propertylifeloan.com/blog/wp-content/uploads/2019/09/Ganesh-Pandal-2019-Delhi.jpg"
+		},
+		{
+			"mediaId": "2006",
+			"mediaTitle": "2B! Radio Sangam Shiva",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://hot.out.airtime.pro:8000//hot_a",
+			"mediaImage": "https://i.pinimg.com/originals/85/f7/b2/85f7b2cb92f82be6d5d6fd4b31d69700.jpg"
+		}, {
+			"mediaId": "2001",
+			"mediaTitle": "2B! Radio Sangam Devi Maa",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://ibadat.out.airtime.pro:8000//ibadat_a",
+			"mediaImage": "https://i.pinimg.com/originals/2f/fe/16/2ffe162ba4b8465e298fb309861817d0.jpg"
+		}, {
+			"mediaId": "2005",
+			"mediaTitle": "2B! Radio Sangam Krishna",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://millenniumhits.out.airtime.pro:8000//millenniumhits_a",
+			"mediaImage": "https://i.dlpng.com/static/png/508618_thumb.png"
+		}, {
+			"mediaId": "2021",
+			"mediaTitle": "Bhakti Sagar",
+			"mediaDescription": "Spiritual, Meditation",
+			"mediaUrl": "http://103.16.47.70:7777/;stream.nsv",
+			"mediaImage": "https://d368qv66y0shpj.cloudfront.net/featured_content/719a90099296abf724dd5522f1a42974_200x200.jpg"
+		}, {
+			"mediaId": "2015",
+			"mediaTitle": "BAJRANG BAN",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "https://www.hanumanchalisa.org/mp3/Bajrang_Ban.mp3",
+			"mediaImage": "https://i.pinimg.com/originals/fa/c3/07/fac307b58edd6adec222152a85f66309.jpg"
+		}, {
+			"mediaId": "2020",
+			"mediaTitle": "24 Hour Kirtan Mandal",
+			"mediaDescription": "Spiritual, Meditation",
+			"mediaUrl": "http://iskon2b.out.airtime.pro:8000//iskon2b_a",
+			"mediaImage": "https://i1.sndcdn.com/avatars-000206317525-54dz42-t500x500.jpg"
+		}, {
+			"mediaId": "2018",
+			"mediaTitle": "Bhajan Radio",
+			"mediaDescription": "Bhajan Radio is an internet radio station offering downloads of music from India temples and musicians for spiritual comtemplation and enjoyment.",
+			"mediaUrl": "http://192.99.35.215:5086/stream",
+			"mediaImage": "https://cdn.onlineradiobox.com/img/logo/4/3904.v1.png"
+		}, {
+			"mediaId": "2011",
+			"mediaTitle": "Radio Sai Global Harmony Bhajan",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://stream.radiosai.net:8000/",
+			"mediaImage": "http://db.radioline.fr/pictures/radio_d1faccd4d196dce836cf9483188f964a/logo200.jpg?size=200"
+		},
+		{
+			"mediaId": "2002",
+			"mediaTitle": "2B! Radio Sangam Dharma Yatra",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://dharamyatra.out.airtime.pro:8000//dharamyatra_a",
+			"mediaImage": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/201608/gurudwara-hari-mandir-sahib%2C-punjab_040316070451.jpg"
+		},
+		{
+			"mediaId": "2004",
+			"mediaTitle": "2B! Radio Sangam Gurbani",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://gurbani.out.airtime.pro:8000//gurbani_a",
+			"mediaImage": "https://www.pinkvilla.com/files/styles/contentpreview/public/nanak_ji.jpg?itok=DVvholWA"
+		},
+		{
+			"mediaId": "2007",
+			"mediaTitle": "2B! Radio Sangam Meditation",
+			"mediaDescription": "spiritual,meditation",
+			"mediaUrl": "http://djbeat.out.airtime.pro:8000//djbeat_a",
+			"mediaImage": "https://www.stockvault.net/data/2017/01/28/221632/preview16.jpg"
+		},
+		{
+			"mediaId": "2019",
+			"mediaTitle": "FM City Wellness",
+			"mediaDescription": "Meditation Music, Feel Free",
+			"mediaUrl": "http://prclive1.listenon.in:8810//",
+			"mediaImage": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uamfw9qjt8gl.png"
+		},
+		{
+			"mediaId": "2009",
+			"mediaTitle": "2B! Radio Sangam Navgrah",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://romance.out.airtime.pro:8000//romance_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//navgrah.png"
+		},
+		{
+			"mediaId": "2010",
+			"mediaTitle": "2B! Radio Sangam Guruvar",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://iskon2b.out.airtime.pro:8000//iskon2b_a",
+			"mediaImage": "http://www.2bradioindia.com//wp-content//uploads//edd//2018//02//guruvar.png"
+		},
+		{
+			"mediaId": "2012",
+			"mediaTitle": "Sri Harmandir Sahib",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "http://sgpc.net:8070/live32",
+			"mediaImage": "https://i.pinimg.com/236x/a0/e3/02/a0e3020a094639f6d35780914c59423d--amritsar-quotation.jpg"
+		},
+		{
+			"mediaId": "2013",
+			"mediaTitle": "Radio city Bakthi",
+			"mediaDescription": "mantra,spiritual",
+			"mediaUrl": "https://prclive4.listenon.in//Bhakti",
+			"mediaImage": "http://static.radio.net/images/broadcasts/02/93/105310/1/c300.png"
+		},
+		{
+			"mediaId": "2014",
+			"mediaTitle": "Radio Divya Jyoti",
+			"mediaDescription": "Divya Jyoti",
+			"mediaUrl": "http://s8.voscast.com:9280/stream/1/",
+			"mediaImage": "https://cdn-radiotime-logos.tunein.com/s224334d.png"
+		},
+		{
+			"mediaId": "2016",
+			"mediaTitle": "Radio Mantra",
+			"mediaDescription": "Bhakti Music Online Radio",
+			"mediaUrl": "http://a6.radioheart.ru:8012/live",
+			"mediaImage": "https://cdn-profiles.tunein.com/s254064/images/logoq.jpg?t=151946"
+		}, {
+			"mediaId": "2017",
+			"mediaTitle": "Calm Radio - India",
+			"mediaDescription": "Bollywood Online Radio",
+			"mediaUrl": "http://148.72.152.10:5328/stream",
+			"mediaImage": "https://cdn-profiles.tunein.com/s167312/images/logoq.jpg"
+		}
+	]
 }
